@@ -68,7 +68,7 @@ Earthquake data is crucial for public safety, urban planning, insurance risk ass
 This project demonstrates how to turn raw public data into a refined analytical solution using **Microsoft Fabric**. With **medallion architecture**, **automated pipelines**, and **Power BI**, the system delivers insights that are fast, reliable, and impactful.
 
 ---
-### 📽️ Demo Video  
+### 📽️ Project Video  
 Want to practice or see how it works in action?
 
 👉 **Watch this tutorial:**  
