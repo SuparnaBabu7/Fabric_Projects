@@ -9,7 +9,7 @@ Earthquake data is crucial for public safety, urban planning, insurance risk ass
 
 ## 🧠 Architecture Overview
 
-![Earthquake Project Architecture](Fabric_Projects/Earthquake%20Project%20-%5B%20Medallion%20Architecture%20%5D/architecture.png)
+Fabric_Projects/Earthquake Project -[ Medallion Architecture ]/architecture.png
 
 > This diagram shows the architecture used for extracting, transforming, and visualizing earthquake data using Microsoft Fabric.
 
