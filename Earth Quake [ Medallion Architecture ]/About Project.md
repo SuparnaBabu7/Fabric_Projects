@@ -9,7 +9,7 @@ Earthquake data is crucial for public safety, urban planning, insurance risk ass
 
 ## 🧠 Architecture Overview
 
-![Earthquake Fabric Architecture](./image.png)
+![Earthquake Fabric Architecture](./image(4).png)
 
 > This diagram shows the architecture used for extracting, transforming, and visualizing earthquake data using Microsoft Fabric.
 
