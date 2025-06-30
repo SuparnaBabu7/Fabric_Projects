@@ -1,4 +1,4 @@
-# 🌍 Earthquake Data Engineering with Microsoft Fabric
+# 🌍 Earthquake Data Engineering Project with Microsoft Fabric
 
 A complete end-to-end data pipeline project using **Microsoft Fabric**, built on real-time **Earthquake API data**. This project follows the **Medallion Architecture** (Bronze → Silver → Gold) and culminates in an interactive **Power BI** dashboard.
 
@@ -78,4 +78,7 @@ Want to practice or see how it works in action?
 
 
 ##  Thak you all :)
+
+## Inturi Suparna Babu
+## Microsoft Fabric Community Super USer, PL-300, DP-600, DP-700 Microsoft Certifed Holder
 
