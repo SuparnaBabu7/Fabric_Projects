@@ -2,7 +2,7 @@
 
 A complete end-to-end data pipeline project using **Microsoft Fabric**, built on real-time **Earthquake API data**. This project follows the **Medallion Architecture** (Bronze → Silver → Gold) and culminates in an interactive **Power BI** dashboard.
 
-> 📌 Business Case  
+> ## 📌 Business Case  
 Earthquake data is crucial for public safety, urban planning, insurance risk assessment, and scientific research. By building a robust pipeline, we ensure stakeholders receive **automated, up-to-date, enriched insights**—without manual intervention.
 
 ---
