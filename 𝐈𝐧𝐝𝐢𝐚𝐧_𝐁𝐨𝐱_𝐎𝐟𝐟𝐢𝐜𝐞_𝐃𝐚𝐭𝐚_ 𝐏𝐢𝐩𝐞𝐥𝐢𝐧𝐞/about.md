@@ -70,7 +70,7 @@ A **full video tutorial** will be released soon — covering the complete step-b
 ---
 
 ## 📢 Stay Connected
-For more projects, follow **KSR Datavizon** on:
+For more projects, follow **me** on:
 - [LinkedIn](https://www.linkedin.com/in/inturi-suparna-babu-312b59270/)
 
 
