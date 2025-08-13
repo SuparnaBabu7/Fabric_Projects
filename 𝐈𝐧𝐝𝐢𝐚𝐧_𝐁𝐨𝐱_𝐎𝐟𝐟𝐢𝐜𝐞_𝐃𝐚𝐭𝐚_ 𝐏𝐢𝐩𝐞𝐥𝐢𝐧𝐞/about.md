@@ -49,7 +49,7 @@ Ingest, filter, and store box office datasets for multiple Indian film industrie
 
 ## 📊 Architecture
 
-![Architecture Diagram](Fabric_Projects/𝐈𝐧𝐝𝐢𝐚𝐧_𝐁𝐨𝐱_𝐎𝐟𝐟𝐢𝐜𝐞_𝐃𝐚𝐭𝐚_ 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞/Bo.png)
+![Architecture Diagram](Bo.png)
 
 ---
 
