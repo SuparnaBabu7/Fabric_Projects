@@ -1,0 +1,15 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+9,Ek Villain,27-06-2014,109,Sidharth Malhotra,501,Bollywood,609,40.0,16.7,155.0,12.3,142.7,Blockbuster,6.6,129,Netflix,2014,6,June,Friday
+1,PK,19-12-2014,101,Aamir Khan,501,Bollywood,601,85.0,26.6,792.0,303.0,489.0,All Time Blockbuster,8.1,153,Netflix,2014,12,December,Friday
+2,Happy New Year,24-10-2014,102,Shah Rukh Khan,501,Bollywood,602,150.0,61.9,397.0,102.0,295.0,Hit,5.0,180,Netflix,2014,10,October,Friday
+3,Kick,25-07-2014,103,Salman Khan,501,Bollywood,603,100.0,26.4,378.0,68.0,310.0,Super Hit,6.0,146,Netflix,2014,7,July,Friday
+4,Bang Bang,02-10-2014,104,Hrithik Roshan,501,Bollywood,604,160.0,27.5,340.0,70.0,270.0,Super Hit,5.6,153,Disney+ Hotstar,2014,10,October,Thursday
+5,Singham Returns,15-08-2014,105,Ajay Devgn,501,Bollywood,605,80.0,32.1,216.5,16.5,200.0,Super Hit,5.7,142,Netflix,2014,8,August,Friday
+6,Jai Ho,24-01-2014,106,Salman Khan,501,Bollywood,606,65.0,17.8,186.3,36.3,150.0,Above Average,5.0,135,Disney+ Hotstar,2014,1,January,Friday
+7,Holiday,06-06-2014,107,Akshay Kumar,501,Bollywood,607,50.0,12.1,178.3,24.9,153.4,Hit,7.2,160,Netflix,2014,6,June,Friday
+18,Action Jackson,05-12-2014,117,Ajay Devgn,501,Bollywood,607,80.0,10.3,88.7,10.7,78.0,Flop,3.4,144,Disney+ Hotstar,2014,12,December,Friday
+8,2 States,18-04-2014,108,Arjun Kapoor,501,Bollywood,608,50.0,12.4,173.0,30.8,142.2,Super Hit,6.9,149,Netflix,2014,4,April,Friday
+12,Humpty Sharma Ki Dulhania,11-07-2014,112,Varun Dhawan,501,Bollywood,608,35.0,9.1,119.6,12.9,106.7,Hit,6.0,133,Netflix,2014,7,July,Friday
+11,Gunday,14-02-2014,111,Ranveer Singh,501,Bollywood,611,55.0,16.1,130.8,24.7,106.1,Below Average,2.7,152,Amazon Prime Video,2014,2,February,Friday
+21,Main Tera Hero,04-04-2014,120,Varun Dhawan,501,Bollywood,615,40.0,6.6,77.2,8.5,68.7,Above Average,5.1,128,Disney+ Hotstar,2014,4,April,Friday
+22,Heropanti,23-05-2014,121,Tiger Shroff,501,Bollywood,616,25.0,6.5,75.8,4.7,71.1,Super Hit,5.2,146,Amazon Prime Video,2014,5,May,Friday

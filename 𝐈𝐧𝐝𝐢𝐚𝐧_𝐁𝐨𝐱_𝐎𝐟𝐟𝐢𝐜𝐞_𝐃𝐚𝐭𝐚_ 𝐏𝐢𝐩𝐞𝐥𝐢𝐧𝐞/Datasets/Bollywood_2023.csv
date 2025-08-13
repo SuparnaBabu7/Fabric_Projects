@@ -1,0 +1,24 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+292,Drishyam 2,12-01-2023,313,Ajay Devgn,501,Bollywood,700,65.0,23.86,342.31,59.5,282.81,Blockbuster,8.2,140,Amazon Prime Video,2023,1,January,Thursday
+465,Animal,01-12-2023,231,Ranbir Kapoor,501,Bollywood,621,150.0,116.0,915.0,255.0,660.0,Blockbuster,6.1,204,Netflix,2023,12,December,Friday
+466,Gadar 2,11-08-2023,406,Sunny Deol,501,Bollywood,699,80.0,53.3,686.0,65.5,620.5,Blockbuster,5.1,170,ZEE5,2023,8,August,Friday
+475,The Kerala Story,12-05-2023,407,Adah Sharma,501,Bollywood,647,25.0,9.5,302.0,15.5,286.5,Blockbuster,6.9,138,ZEE5,2023,5,May,Friday
+505,12th Fail,27-10-2023,421,Vikrant Massey,501,Bollywood,633,20.0,1.5,70.05,3.5,66.55,Blockbuster,8.8,147,Netflix,2023,10,October,Friday
+481,Kisi Ka Bhai Kisi Ki Jaan,21-04-2023,328,Salman Khan,501,Bollywood,613,125.0,27.0,184.6,52.6,132.0,Below Average,4.0,145,Amazon Prime Video,2023,4,April,Friday
+487,Bholaa,30-03-2023,279,Ajay Devgn,501,Bollywood,683,100.0,16.5,123.0,15.0,108.0,Average,5.8,144,Amazon Prime Video,2023,3,March,Thursday
+515,Mission Raniganj: The Great Bharat Rescue,06-10-2023,274,Akshay Kumar,501,Bollywood,743,55.0,3.8,46.0,5.6,40.4,Disaster,7.1,134,Amazon Prime Video,2023,10,October,Friday
+522,Mrs. Chatterjee vs. Norway,17-03-2023,433,Rani Mukerji,501,Bollywood,633,20.0,3.2,37.5,11.0,26.5,Above Average,7.3,144,Amazon Prime Video,2023,3,March,Friday
+463,Jawan,07-09-2023,201,Shah Rukh Khan,501,Bollywood,621,300.0,129.1,1160.0,400.0,760.0,All Time Blockbuster,6.9,169,Netflix,2023,9,September,Thursday
+464,Pathaan,25-01-2023,104,Shah Rukh Khan,501,Bollywood,651,250.0,104.8,1055.0,397.5,657.5,All Time Blockbuster,5.8,146,Amazon Prime Video,2023,1,January,Wednesday
+470,Tiger 3,12-11-2023,277,Salman Khan,501,Bollywood,651,250.0,94.0,464.0,124.5,339.5,Hit,5.7,155,Amazon Prime Video,2023,11,November,Sunday
+471,Dunki,21-12-2023,101,Taapsee Pannu,501,Bollywood,734,120.0,58.0,454.0,182.0,272.0,Hit,6.5,160,Netflix,2023,12,December,Thursday
+473,Rocky Aur Rani Kii Prem Kahaani,28-07-2023,272,Ranveer Singh,501,Bollywood,702,150.0,23.1,357.5,175.0,182.5,Hit,6.5,168,Amazon Prime Video,2023,7,July,Friday
+477,Tu Jhoothi Main Makkaar,03-05-2023,145,Ranbir Kapoor,501,Bollywood,630,75.0,22.1,223.0,48.0,175.0,Hit,6.0,150,Netflix,2023,5,May,Wednesday
+478,OMG 2,11-08-2023,408,Pankaj Tripathi,501,Bollywood,620,70.0,12.1,221.75,43.0,178.75,Super Hit,7.5,156,Netflix,2023,8,August,Friday
+483,Dream Girl 2,25-08-2023,410,Ayushmann Khurrana,501,Bollywood,608,75.0,12.6,142.2,16.2,126.0,Hit,5.2,134,Netflix,2023,8,August,Friday
+484,Sam Bahadur,01-12-2023,139,Vicky Kaushal,501,Bollywood,736,60.0,8.4,130.3,18.5,111.8,Hit,7.7,150,ZEE5,2023,12,December,Friday
+486,Fukrey 3,29-09-2023,211,Pulkit Samrat,501,Bollywood,733,40.0,12.4,127.75,14.5,113.25,Hit,5.5,147,Amazon Prime Video,2023,9,September,Friday
+489,Satyaprem Ki Katha,30-06-2023,412,Kartik Aaryan,501,Bollywood,704,60.0,9.9,118.5,26.0,92.5,Hit,6.7,146,Amazon Prime Video,2023,6,June,Friday
+491,Zara Hatke Zara Bachke,02-06-2023,379,Vicky Kaushal,501,Bollywood,702,35.0,6.5,116.0,11.3,104.7,Super Hit,6.0,132,JioCinema,2023,6,June,Friday
+514,Shehzada,17-02-2023,281,Kartik Aaryan,501,Bollywood,610,70.0,8.0,47.8,10.0,37.8,Disaster,4.5,142,Netflix,2023,2,February,Friday
+531,Selfiee,24-02-2023,317,Akshay Kumar,501,Bollywood,732,100.0,4.3,24.6,4.5,20.1,Disaster,5.7,148,Disney+ Hotstar,2023,2,February,Friday

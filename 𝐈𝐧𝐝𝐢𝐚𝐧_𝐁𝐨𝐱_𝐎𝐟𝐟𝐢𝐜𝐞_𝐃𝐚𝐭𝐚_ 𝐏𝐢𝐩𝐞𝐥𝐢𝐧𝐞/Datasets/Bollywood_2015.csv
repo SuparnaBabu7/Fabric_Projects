@@ -1,0 +1,11 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+186,Tanu Weds Manu Returns,22-05-2015,142,Kangana Ranaut,501,Bollywood,608,40.0,9.0,258.0,44.0,214.0,Blockbuster,7.6,128,Amazon Prime Video,2015,5,May,Friday
+184,Dilwale,18-12-2015,105,Shah Rukh Khan,501,Bollywood,613,165.0,21.0,388.0,176.0,212.0,Hit,5.1,158,Netflix,2015,12,December,Friday
+185,Bajirao Mastani,18-12-2015,133,Ranveer Singh,501,Bollywood,670,140.0,12.8,362.0,99.0,263.0,Hit,7.3,158,Amazon Prime Video,2015,12,December,Friday
+189,Any Body Can Dance 2,19-06-2015,135,Prabhu Deva,501,Bollywood,672,60.0,15.0,165.9,19.3,146.6,Hit,5.4,154,Disney+ Hotstar,2015,6,June,Friday
+181,Bajrangi Bhaijaan,17-07-2015,203,Salman Khan,501,Bollywood,669,90.0,27.2,922.1,489.7,432.4,All Time Blockbuster,8.1,163,Disney+ Hotstar,2015,7,July,Friday
+188,Welcome Back,04-09-2015,215,John Abraham,501,Bollywood,649,75.0,14.4,168.6,38.3,130.3,Average,4.3,152,Amazon Prime Video,2015,9,September,Friday
+183,Prem Ratan Dhan Payo,13-11-2015,255,Salman Khan,501,Bollywood,611,180.0,66.2,405.8,95.8,310.0,Above Average,4.4,164,Disney+ Hotstar,2015,11,November,Friday
+191,Dil Dhadakne Do,05-06-2015,256,Anil Kapoor,501,Bollywood,608,80.0,10.5,150.0,43.3,106.7,Below Average,7.0,170,Netflix,2015,6,June,Friday
+192,Baby,23-01-2015,257,Akshay Kumar,501,Bollywood,607,65.0,10.0,142.9,13.9,129.0,Hit,7.9,159,Aha,2015,1,January,Friday
+193,Piku,08-05-2015,258,Deepika Padukone,501,Bollywood,620,40.0,6.0,141.2,34.0,107.2,Hit,7.6,123,SonyLIV,2015,5,May,Friday

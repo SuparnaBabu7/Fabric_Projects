@@ -1,0 +1,13 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+367,Tanhaji: The Unsung Warrior,10-01-2020,359,Ajay Devgn,501,Bollywood,723,150.0,21.8,361.0,36.0,325.0,Blockbuster,7.5,135,Disney+ Hotstar,2020,1,January,Friday
+372,Street Dancer 3D,24-01-2020,135,Varun Dhawan,501,Bollywood,650,100.0,14.7,102.0,15.0,87.0,Flop,3.7,146,Amazon Prime Video,2020,1,January,Friday
+375,Love Aaj Kal,14-02-2020,207,Kartik Aaryan,501,Bollywood,636,60.0,18.0,56.9,10.0,46.9,Flop,4.7,142,Amazon Prime Video,2020,2,February,Friday
+374,Malang - Unleash the Madness,07-02-2020,109,Aditya Roy Kapoor,501,Bollywood,609,50.0,9.8,80.0,10.0,70.0,Average,6.5,135,Netflix,2020,2,February,Friday
+376,Chhapaak,10-01-2020,139,Deepika Padukone,501,Bollywood,633,50.0,4.7,55.5,15.0,40.5,Flop,5.4,120,Disney+ Hotstar,2020,1,January,Friday
+371,Baaghi 3,06-03-2020,136,Tiger Shroff,501,Bollywood,651,100.0,26.5,137.0,23.0,114.0,Flop,2.2,143,Disney+ Hotstar,2020,3,March,Friday
+384,Panga,24-01-2020,226,Kangana Ranaut,501,Bollywood,718,40.0,2.7,41.7,7.2,34.5,Flop,6.8,131,Disney+ Hotstar,2020,1,January,Friday
+144,Naam Shabana,01-01-2020,227,Akshay Kumar,501,Bollywood,627,25.0,5.1,57.6,6.5,51.1,Below Average,6.2,147,Amazon Prime Video,2020,1,January,Wednesday
+373,Shubh Mangal Zyada Saavdhan,21-02-2020,360,Ayushmann Khurrana,501,Bollywood,724,50.0,14.2,83.0,10.0,73.0,Average,5.8,117,Amazon Prime Video,2020,2,February,Friday
+379,Thappad,28-02-2020,361,Taapsee Pannu,501,Bollywood,647,22.0,3.1,44.5,8.1,36.4,Hit,7.0,142,Amazon Prime Video,2020,2,February,Friday
+383,Jawaani Jaaneman,31-01-2020,365,Saif Ali Khan,501,Bollywood,620,40.0,3.2,42.0,9.5,32.5,Flop,6.5,119,Amazon Prime Video,2020,1,January,Friday
+385,Bhoot: Part One - The Haunted Ship,21-02-2020,366,Vicky Kaushal,501,Bollywood,661,30.0,5.1,39.3,2.8,36.5,Below Average,5.4,114,Amazon Prime Video,2020,2,February,Friday

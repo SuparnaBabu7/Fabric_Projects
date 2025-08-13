@@ -1,0 +1,17 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+552,Raayan,26-07-2024,453,Dhanush,503,Kollywood,606,70.0,23.0,154.0,43.5,110.5,Blockbuster,6.5,145,Amazon Prime Video,2024,7,July,Friday
+562,Maharaja,14-06-2024,460,Vijay Sethupathi,503,Kollywood,621,30.0,104.84,71.26,80.59,80.59,Blockbuster,8.5,141,Amazon Prime Video,2024,6,June,Friday
+565,Aranmanai 4,21-06-2024,186,Tamannaah Bhatia,503,Kollywood,666,35.0,5.3,98.0,20.0,78.0,Blockbuster,5.1,148,Amazon Prime Video,2024,6,June,Friday
+582,Demonte Colony 2,27-09-2024,172,VJ Archana,503,Kollywood,754,15.0,5.05,49.15,41.65,41.65,Blockbuster,6.7,144,Amazon Prime Video,2024,9,September,Friday
+586,Vaazhai,23-08-2024,303,Dhivya Dhuraisamy,503,Kollywood,755,5.0,2.25,39.02,34.22,34.22,Blockbuster,7.9,134,Amazon Prime Video,2024,8,August,Friday
+598,Star,07-06-2024,481,Kavin,503,Kollywood,647,12.0,3.25,25.11,22.36,22.36,Hit,6.5,158,Amazon Prime Video,2024,6,June,Friday
+542,The GOAT,05-09-2024,264,Joseph Vijay,503,Kollywood,618,320.0,100.75,451.23,156.1,295.13,Hit,5.9,183,Netflix,2024,9,September,Thursday
+546,Vettaiyan,10-10-2024,450,Amitabh Bachchan,503,Kollywood,605,200.0,67.0,253.2,82.0,171.2,Average,8.0,163,Amazon Prime Video,2024,10,October,Thursday
+554,Indian 2,12-07-2024,132,Kamal Haasan,503,Kollywood,627,250.0,56.25,148.83,53.0,95.83,Disaster,3.9,180,Netflix,2024,7,July,Friday
+569,Ayalaan,12-01-2024,462,Sivakarthikeyan,503,Kollywood,752,75.0,6.8,76.5,17.85,58.65,Flop,6.0,155,Sun NXT,2024,1,January,Friday
+570,Captain Miller,12-01-2024,463,Dhanush,503,Kollywood,699,60.0,13.8,75.08,17.0,58.08,Average,6.5,157,Amazon Prime Video,2024,1,January,Friday
+572,Thangalaan,15-08-2024,147,Vikram,503,Kollywood,685,80.0,19.3,71.45,54.45,54.45,Flop,7.1,156,Netflix,2024,8,August,Thursday
+577,Garudan,03-07-2024,362,Soori,503,Kollywood,637,20.0,6.0,60.0,50.0,50.0,Super Hit,7.1,133,Amazon Prime Video,2024,7,July,Wednesday
+581,Meiyazhagan,27-09-2024,165,Karthi,503,Kollywood,643,35.0,4.0,49.6,37.6,37.6,Super Hit,8.5,177,Netflix,2024,9,September,Friday
+589,Sarfira,12-07-2024,473,Akshay Kumar,503,Kollywood,647,85.0,4.0,33.25,28.75,28.75,Super Hit,7.3,155,Disney+ Hotstar,2024,7,July,Friday
+590,Lal Salaam,09-02-2024,474,Rajinikanth,503,Kollywood,665,60.0,5.7,32.65,20.65,20.65,Disaster,4.6,150,Netflix,2024,2,February,Friday

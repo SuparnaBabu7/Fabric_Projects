@@ -1,0 +1,23 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+286,RRR (Rise Roar Revolt),25-03-2022,195,N.T. Rama Rao Jr.,505,Tollywood,698,550.0,223.0,1230.0,314.15,915.85,Blockbuster,7.8,187,Netflix,2022,3,March,Friday
+304,Karthikeya 2,26-08-2022,319,Nikhil Siddharth,505,Tollywood,703,25.0,8.7,117.87,15.5,102.37,Blockbuster,7.9,150,ZEE5,2022,8,August,Friday
+311,Sita Ramam,05-08-2022,324,Dulquer Salmaan,505,Tollywood,706,30.0,5.7,94.28,17.0,77.28,Blockbuster,8.5,163,Amazon Prime Video,2022,8,August,Friday
+355,DJ Tillu,12-02-2022,349,Sidhu Jonnalagadda,505,Tollywood,719,10.0,8.0,30.5,3.2,27.3,Blockbuster,7.2,121,Aha,2022,2,February,Saturday
+318,Dhamaka,23-12-2022,178,Ravi Teja,505,Tollywood,691,35.0,9.04,82.25,7.5,74.75,Blockbuster,6.2,144,Netflix,2022,12,December,Friday
+344,HIT: The 2nd Case,02-12-2022,340,Adivi Sesh,505,Tollywood,626,15.0,11.5,41.85,11.5,30.35,Super Hit,7.1,150,Amazon Prime Video,2022,12,December,Friday
+350,Yashoda,11-11-2022,345,amantha Ruth Prabhu,505,Tollywood,716,25.0,5.6,32.13,8.5,23.63,Below Average,6.5,135,Amazon Prime Video,2022,11,November,Friday
+361,18 Pages,23-12-2022,354,Nikhil Siddharth,505,Tollywood,638,15.0,3.6,22.96,3.3,19.66,Average,7.1,135,Netflix,2022,12,December,Friday
+363,Kanam,09-09-2022,356,Sathish,505,Tollywood,721,15.0,2.8,21.8,7.0,14.8,Average,7.8,160,Amazon Prime Video,2022,9,September,Friday
+352,The Warriorr,14-07-2022,162,Ram Pothineni,505,Tollywood,605,35.0,12.5,31.5,1.5,30.0,Flop,4.8,155,Disney+ Hotstar,2022,7,July,Thursday
+320,Acharya,29-04-2022,140,Chiranjeevi,505,Tollywood,606,140.0,51.0,73.5,11.25,62.25,Disaster,3.8,152,Amazon Prime Video,2022,4,April,Friday
+297,Sarkaru Vaari Paata,12-05-2022,149,Mahesh Babu,505,Tollywood,606,100.0,68.5,188.5,26.5,162.0,Above Average,5.6,162,Amazon Prime Video,2022,5,May,Thursday
+330,Major,03-06-2022,191,Adivi Sesh,505,Tollywood,710,25.0,13.15,58.2,13.0,45.2,Super Hit,8.1,150,Amazon Prime Video,2022,6,June,Friday
+325,Bangarraju,14-01-2022,193,Nagarjuna Akkineni,505,Tollywood,647,30.0,13.3,61.8,3.5,58.3,Hit,5.6,150,ZEE5,2022,1,January,Friday
+307,Godfather,05-10-2022,218,Chiranjeevi,505,Tollywood,621,100.0,28.85,107.0,20.0,87.0,Flop,5.2,157,Netflix,2022,10,October,Wednesday
+314,F3: Fun and Frustration,27-05-2022,230,Venkatesh Daggubati,505,Tollywood,668,60.0,22.2,90.0,14.9,75.1,Below Average,4.7,148,Amazon Prime Video,2022,5,May,Friday
+331,Liger,25-08-2022,242,Vijay Deverakonda,505,Tollywood,680,100.0,24.2,56.18,7.6,48.58,Disaster,2.6,140,Disney+ Hotstar,2022,8,August,Thursday
+299,Bheemla Nayak,25-02-2022,315,Pawan Kalyan,505,Tollywood,627,90.0,57.1,158.5,28.0,130.5,Hit,6.3,130,Disney+ Hotstar,2022,2,February,Friday
+300,Radhe Shyam,11-03-2022,316,Prabhas,505,Tollywood,636,300.0,66.3,149.5,26.3,123.2,Disaster,5.2,138,Netflix,2022,3,March,Friday
+323,Bimbisara,05-08-2022,329,Nandamuri Kalyan Ram,505,Tollywood,708,40.0,12.0,64.6,6.5,58.1,Hit,6.8,146,ZEE5,2022,8,August,Friday
+348,Ante Sundharaniki,10-06-2022,343,Nani,505,Tollywood,630,30.0,10.3,36.5,11.0,25.5,Flop,7.6,173,Netflix,2022,6,June,Friday
+359,Khiladi,11-02-2022,352,Ravi Teja,505,Tollywood,607,40.0,8.2,23.5,1.8,21.7,Disaster,5.2,154,Amazon Prime Video,2022,2,February,Friday

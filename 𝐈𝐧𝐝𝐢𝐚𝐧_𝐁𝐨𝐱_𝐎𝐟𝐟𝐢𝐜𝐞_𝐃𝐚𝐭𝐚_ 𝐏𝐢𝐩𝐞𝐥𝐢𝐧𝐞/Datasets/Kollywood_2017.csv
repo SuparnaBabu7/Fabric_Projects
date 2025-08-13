@@ -1,0 +1,13 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+111,Mersal,18-10-2017,201,Joseph Vijay,503,Kollywood,607,125.0,50.3,255.0,71.0,184.0,Blockbuster,7.5,172,Netflix,2017,10,October,Wednesday
+139,Vikram Vedha,21-07-2017,223,Madhavan,503,Kollywood,621,15.0,3.1,63.2,3.2,60.0,Blockbuster,8.2,147,ZEE5,2017,7,July,Friday
+173,Kavan,31-03-2017,248,Vijay Sethupathi,503,Kollywood,627,10.0,3.1,30.0,7.3,22.7,Blockbuster,7.1,150,Amazon Prime Video,2017,3,March,Friday
+147,Velaiilla Pattadhari 2,11-08-2017,116,Dhanush,503,Kollywood,612,30.0,6.9,53.5,6.0,47.5,Flop,5.4,128,Amazon Prime Video,2017,8,August,Friday
+121,Vivegam,25-08-2017,114,Ajith Kumar,503,Kollywood,618,120.0,35.0,126.0,34.0,92.0,Flop,5.2,149,Amazon Prime Video,2017,8,August,Friday
+162,Kaatru Veliyidai,07-04-2017,151,Karthi,503,Kollywood,619,30.0,12.0,40.8,8.8,32.0,Below Average,5.8,146,Amazon Prime Video,2017,4,April,Friday
+126,Bairavaa,12-01-2017,212,Joseph Vijay,503,Kollywood,618,60.0,27.0,110.0,30.4,79.6,Average,5.8,169,Amazon Prime Video,2017,1,January,Thursday
+127,Singam 3,10-02-2017,213,Suriya,503,Kollywood,607,65.0,20.0,106.0,26.0,80.0,Below Average,6.0,155,Amazon Prime Video,2017,2,February,Friday
+133,Velaikkaran,22-12-2017,218,Sivakarthikeyan,503,Kollywood,627,40.0,7.5,85.4,21.0,64.4,Super Hit,7.2,160,Amazon Prime Video,2017,12,December,Friday
+141,Theeran Adhigaaram Ondru,17-11-2017,225,Karthi,503,Kollywood,607,25.0,4.5,60.3,9.2,51.1,Super Hit,8.2,157,Amazon Prime Video,2017,11,November,Friday
+170,Thupparivaalan,15-09-2017,245,Vishal,503,Kollywood,607,15.0,2.5,33.6,11.9,21.7,Super Hit,7.5,151,Amazon Prime Video,2017,9,September,Friday
+172,Aval,03-11-2017,247,Siddharth,503,Kollywood,666,7.0,2.2,30.3,6.3,24.0,Super Hit,6.7,137,Amazon Prime Video,2017,11,November,Friday

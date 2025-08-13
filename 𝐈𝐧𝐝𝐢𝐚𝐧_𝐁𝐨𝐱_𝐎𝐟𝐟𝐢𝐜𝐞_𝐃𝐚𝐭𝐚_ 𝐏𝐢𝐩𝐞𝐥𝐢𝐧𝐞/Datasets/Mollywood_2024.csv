@@ -1,0 +1,15 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+550,The Goat Life,28-03-2024,452,Prithviraj Sukumaran,509,Mollywood,713,50.0,16.22,157.35,97.85,97.85,Blockbuster,7.1,173,Amazon Prime Video,2024,3,March,Thursday
+551,Aavesham,11-04-2024,422,Fahadh Faasil,509,Mollywood,612,30.0,10.5,154.79,56.0,98.79,Blockbuster,7.8,155,Amazon Prime Video,2024,4,April,Thursday
+556,Premalu,15-02-2024,390,Naslen,509,Mollywood,630,10.0,1.35,131.18,42.5,88.68,Blockbuster,7.8,156,Amazon Prime Video,2024,2,February,Thursday
+563,A.R.M,12-09-2024,461,Mohanlal,509,Mollywood,669,30.0,6.25,102.0,32.0,70.0,Blockbuster,7.6,150,Amazon Prime Video,2024,9,September,Thursday
+566,Guruvayoor Ambalanadayil,16-05-2024,339,Prithviraj Sukumaran,509,Mollywood,631,20.0,8.0,90.15,34.85,55.3,Blockbuster,6.6,132,Amazon Prime Video,2024,5,May,Thursday
+568,Varshangalkku Shesham,11-04-2024,332,Pranav Mohanlal,509,Mollywood,620,20.0,10.15,83.1,46.6,46.6,Blockbuster,6.6,166,Amazon Prime Video,2024,4,April,Thursday
+574,Kishkindha Kaandam,12-09-2024,464,Asif Ali,509,Mollywood,753,7.0,0.5,69.25,43.25,43.25,Blockbuster,8.6,133,Amazon Prime Video,2024,9,September,Thursday
+588,Vaazha: Biopic of a Billion Boys,23-08-2024,472,Siju Sunny,509,Mollywood,647,4.0,2.0,36.5,26.5,26.5,Blockbuster,7.3,125,Amazon Prime Video,2024,8,August,Friday
+547,Manjummel Boys,22-02-2024,451,Soubin Shahir,509,Mollywood,747,22.0,6.4,241.1,167.65,167.65,All Time Blockbuster,8.2,135,Amazon Prime Video,2024,2,February,Thursday
+571,Turbo,23-05-2024,278,Mammootty,509,Mollywood,612,35.0,15.7,72.25,32.0,40.25,Hit,5.9,155,Amazon Prime Video,2024,5,May,Thursday
+576,Bramayugam,15-02-2024,466,Mammootty,509,Mollywood,748,30.0,7.65,60.24,33.81,33.81,Super Hit,7.8,139,Amazon Prime Video,2024,2,February,Thursday
+585,Abraham Ozler,11-01-2024,244,Jayaram,509,Mollywood,700,15.0,5.88,40.82,25.11,25.11,Super Hit,6.5,143,Amazon Prime Video,2024,1,January,Thursday
+595,Malaikottai Vaaliban,25-01-2024,478,Mohanlal,509,Mollywood,756,60.0,12.15,30.31,17.15,17.15,Disaster,6.0,156,Disney+ Hotstar,2024,1,January,Thursday
+601,Nunakkuzhi,15-08-2024,177,Nikhila Vimal,509,Mollywood,755,8.0,2.41,22.75,13.0,13.0,Hit,6.8,125,ZEE5,2024,8,August,Thursday

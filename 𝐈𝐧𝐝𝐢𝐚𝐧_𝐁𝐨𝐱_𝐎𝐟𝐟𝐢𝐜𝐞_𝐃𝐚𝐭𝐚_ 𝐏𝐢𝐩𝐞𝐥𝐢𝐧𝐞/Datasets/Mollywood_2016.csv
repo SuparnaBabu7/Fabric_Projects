@@ -1,0 +1,6 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+252,Kattappanayile Rithwik Roshan,18-11-2016,267,Siddique,509,Mollywood,608,3.0,1.1,37.1,13.3,23.8,Blockbuster,7.1,140,Sun NXT,2016,11,November,Friday
+247,Oppam,08-09-2016,290,Mohanlal,509,Mollywood,607,7.0,1.5,52.0,13.7,38.3,Blockbuster,7.3,143,Amazon Prime Video,2016,9,September,Thursday
+253,Action Hero Biju,04-02-2016,295,Nivin Pauly,509,Mollywood,691,3.0,1.6,31.2,13.3,17.9,Blockbuster,7.6,144,Sun NXT,2016,2,February,Thursday
+223,Pulimurugan,04-11-2016,278,Mohanlal,509,Mollywood,618,25.0,4.1,150.0,44.1,105.9,All Time Blockbuster,6.6,161,Amazon Prime Video,2016,11,November,Friday
+251,Jacobinte Swargarajyam,06-05-2016,294,Nivin Pauly,509,Mollywood,690,4.0,1.3,39.3,15.3,24.0,Blockbuster,7.6,145,Amazon Prime Video,2016,5,May,Friday

@@ -1,0 +1,6 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+500,Kaatera,29-12-2023,300,Darshan Thoogudeep,507,Sandalwood,637,45.0,13.0,80.5,0.0,80.5,Hit,7.4,183,Amazon Prime Video,2023,12,December,Friday
+513,Kranti,26-01-2023,426,Darshan Thoogudeep,507,Sandalwood,606,35.0,11.6,48.2,0.0,48.2,Below Average,5.1,163,Amazon Prime Video,2023,1,January,Thursday
+519,Kabzaa,17-03-2023,430,Upendra,507,Sandalwood,607,70.0,12.5,40.4,4.6,35.8,Disaster,4.7,134,Amazon Prime Video,2023,3,March,Friday
+526,Ghost,19-10-2023,437,Shivarajkumar,507,Sandalwood,618,20.0,2.8,26.65,0.75,25.9,Below Average,6.3,132,Amazon Prime Video,2023,10,October,Thursday
+529,Sapta Sagaradaache Ello: Side A,01-09-2023,440,Rakshit Shetty,507,Sandalwood,636,20.0,2.3,26.25,0.0,26.25,Average,8.2,142,Amazon Prime Video,2023,9,September,Friday

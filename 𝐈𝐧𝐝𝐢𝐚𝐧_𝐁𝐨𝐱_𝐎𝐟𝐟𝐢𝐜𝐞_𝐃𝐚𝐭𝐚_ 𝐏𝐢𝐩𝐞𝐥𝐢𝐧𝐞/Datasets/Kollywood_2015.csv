@@ -1,0 +1,9 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+187,I,14-01-2015,132,Vikram,503,Kollywood,671,90.0,35.0,240.0,38.0,202.0,Blockbuster,7.4,188,Amazon Prime Video,2015,1,January,Wednesday
+204,Thani Oruvan,28-08-2015,218,Jayam Ravi,503,Kollywood,607,20.0,14.0,64.7,10.7,54.0,Blockbuster,8.4,160,Amazon Prime Video,2015,8,August,Friday
+195,Kanchana 2,17-04-2015,259,Raghava Lawrence,503,Kollywood,628,17.0,10.0,114.0,6.0,108.0,Blockbuster,5.5,166,Sun NXT,2015,4,April,Friday
+194,Vedalam,13-11-2015,114,Ajith Kumar,503,Kollywood,606,50.0,24.0,125.7,32.0,93.7,Super Hit,6.3,148,Amazon Prime Video,2015,11,November,Friday
+206,Anegan,13-02-2015,248,Dhanush,503,Kollywood,663,25.0,6.5,54.0,4.0,50.0,Above Average,6.7,154,Amazon Prime Video,2015,2,February,Friday
+196,Puli,01-10-2015,260,Joseph Vijay,503,Kollywood,673,100.0,28.5,97.0,25.0,72.0,Disaster,4.3,155,Amazon Prime Video,2015,10,October,Thursday
+199,Yennai Arindhaal,06-02-2015,262,Ajith Kumar,503,Kollywood,621,50.0,14.5,87.5,28.5,59.0,Hit,7.3,168,Amazon Prime Video,2015,2,February,Friday
+203,Massu Engira Masilamani,29-05-2015,264,Suriya,503,Kollywood,675,60.0,7.0,68.0,20.0,48.0,Flop,5.9,151,Amazon Prime Video,2015,5,May,Friday

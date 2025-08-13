@@ -1,0 +1,21 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+541,Stree 2: Sarkate Ka Aatank,15-08-2024,141,Bhumi Rajgor,501,Bollywood,628,80.0,80.0,857.07,144.0,713.07,Blockbuster,7.1,147,Amazon Prime Video,2024,8,August,Thursday
+558,Munjya,07-06-2024,457,Sharvari,501,Bollywood,628,30.0,4.8,125.0,5.0,120.0,Blockbuster,6.4,123,Amazon Prime Video,2024,6,June,Friday
+544,Fighter,25-01-2024,104,Hrithik Roshan,501,Bollywood,606,250.0,35.05,358.83,254.83,254.83,Hit,6.2,166,Netflix,2024,1,January,Thursday
+548,Shaitaan,08-03-2024,374,Ajay Devgn,501,Bollywood,748,80.0,21.5,213.55,37.5,176.05,Super Hitt,6.5,132,Netflix,2024,3,March,Friday
+553,Crew,29-03-2024,454,Tabu,501,Bollywood,620,60.0,19.5,151.35,55.0,96.35,Super Hitt,5.9,118,Netflix,2024,3,March,Friday
+555,Teri Baaton Mein Aisa Uljha Jiya,09-02-2024,455,Shahid Kapoor,501,Bollywood,749,70.0,13.5,139.0,37.75,101.25,Hit,6.2,141,Amazon Prime Video,2024,2,February,Friday
+559,Bad Newz,19-07-2024,458,Vicky Kaushal,501,Bollywood,630,80.0,14.0,113.75,37.0,76.75,Average,4.9,142,Amazon Prime Video,2024,7,July,Friday
+560,Bade Miyan Chote Miyan,10-04-2024,111,Akshay Kumar,501,Bollywood,639,250.0,31.5,111.49,33.0,78.49,Disaster,3.9,163,Netflix,2024,4,April,Wednesday
+561,Article 370,23-02-2024,459,Yami Gautam,501,Bollywood,627,35.0,8.6,105.01,12.5,92.51,Super Hitt,7.8,158,Netflix,2024,2,February,Friday
+567,Chandu Champion,14-06-2024,203,Kartik Aaryan,501,Bollywood,751,90.0,7.6,87.25,13.75,73.5,Flop,7.9,142,Amazon Prime Video,2024,6,June,Friday
+573,Maidaan,10-04-2024,138,Ajay Devgn,501,Bollywood,692,100.0,10.4,71.15,63.4,63.4,Disaster,8.0,181,Amazon Prime Video,2024,4,April,Wednesday
+575,Srikanth,10-05-2024,465,Rajkummar Rao,501,Bollywood,633,40.0,2.65,61.4,57.8,57.8,Above Average,7.4,134,Netflix,2024,5,May,Friday
+578,Khel Khel Mein,15-08-2024,292,Akshay Kumar,501,Bollywood,620,100.0,7.55,55.25,45.25,45.25,Disaster,6.7,135,Netflix,2024,8,August,Thursday
+579,Yodha,15-03-2024,467,Sidharth Malhotra,501,Bollywood,627,60.0,5.85,53.5,45.0,45.0,Flop,5.7,130,Amazon Prime Video,2024,3,March,Friday
+580,Mr. & Mrs. Mahi,31-05-2024,468,Rajkummar Rao,501,Bollywood,718,40.0,7.6,51.25,41.75,41.75,Below Average,5.9,139,Netflix,2024,5,May,Friday
+583,Kill,05-07-2024,469,Lakshya,501,Bollywood,621,20.0,1.5,47.25,28.75,28.75,Super Hit,7.6,105,Disney+ Hotstar,2024,7,July,Friday
+584,Madgaon Express,22-03-2024,470,Divyendu Sharma,501,Bollywood,620,30.0,1.8,46.2,42.8,42.8,Hit,7.0,143,Amazon Prime Video,2024,3,March,Friday
+591,Swatantrya Veer Savarkar,22-03-2024,475,Randeep Hooda,501,Bollywood,633,25.0,1.5,31.86,29.11,29.11,Disaster,7.7,176,ZEE5,2024,3,March,Friday
+596,Laapataa Ladies,01-03-2024,479,Nitanshi Goel,501,Bollywood,620,8.0,1.4,27.06,24.31,24.31,Disaster,8.4,122,Netflix,2024,3,March,Friday
+597,Merry Christmas,12-01-2024,480,Vijay Sethupathi,501,Bollywood,753,50.0,3.45,26.3,23.25,23.25,Hit,6.9,144,Netflix,2024,1,January,Friday

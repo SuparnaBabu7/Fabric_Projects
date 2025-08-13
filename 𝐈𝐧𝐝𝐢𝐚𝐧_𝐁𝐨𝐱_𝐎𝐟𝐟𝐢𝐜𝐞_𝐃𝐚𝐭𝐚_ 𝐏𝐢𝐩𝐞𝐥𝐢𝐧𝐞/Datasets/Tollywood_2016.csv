@@ -1,0 +1,9 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+235,Dhruva,09-12-2016,113,Ram Charan,505,Tollywood,607,50.0,20.0,89.6,10.0,79.6,Hit,7.7,165,Amazon Prime Video,2016,12,December,Friday
+240,A Aa,02-06-2016,143,Nithiin,505,Tollywood,608,35.0,12.6,80.0,10.0,70.0,Hit,6.8,152,Amazon Prime Video,2016,6,June,Thursday
+234,Oopiri,25-03-2016,125,Nagarjuna Akkineni,505,Tollywood,620,50.0,10.2,97.7,10.8,86.9,Super Hit,8.0,158,Amazon Prime Video,2016,3,March,Friday
+237,Nannaku Prematho,13-01-2016,128,N.T. Rama Rao Jr.,505,Tollywood,627,50.0,24.0,88.4,13.7,74.7,Hit,7.5,168,Amazon Prime Video,2016,1,January,Wednesday
+239,Soggade Chinni Nayana,14-01-2016,193,Nagarjuna Akkineni,505,Tollywood,620,30.0,6.5,82.3,5.7,76.6,Super Hit,6.3,145,Amazon Prime Video,2016,1,January,Thursday
+238,Sardaar Gabbar Singh,08-04-2016,208,Pawan Kalyan,505,Tollywood,632,75.0,40.0,85.5,7.1,78.4,Flop,4.6,164,Amazon Prime Video,2016,4,April,Friday
+227,Sarrainodu,22-04-2016,241,Allu Arjun,505,Tollywood,606,50.0,23.0,134.0,10.0,124.0,Super Hit,6.6,159,Amazon Prime Video,2016,4,April,Friday
+244,Brahmotsavam,20-05-2016,288,Mahesh Babu,505,Tollywood,636,75.0,25.0,58.3,7.8,50.5,Disaster,4.0,156,Amazon Prime Video,2016,5,May,Friday

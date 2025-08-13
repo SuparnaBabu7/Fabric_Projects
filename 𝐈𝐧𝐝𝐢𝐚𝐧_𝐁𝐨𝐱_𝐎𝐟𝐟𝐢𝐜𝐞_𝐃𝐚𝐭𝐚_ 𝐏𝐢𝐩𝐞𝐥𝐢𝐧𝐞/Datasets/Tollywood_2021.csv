@@ -1,0 +1,12 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+268,Krack,09-01-2021,253,Ravi Teja,505,Tollywood,621,35.0,1.4,60.15,1.4,58.75,Blockbuster,6.9,154,Aha,2021,1,January,Saturday
+263,Uppena,12-02-2021,298,Panja Vaisshnav Tej,505,Tollywood,619,25.0,16.9,84.1,2.5,81.6,Blockbuster,6.5,147,Netflix,2021,2,February,Friday
+267,Jathi Ratnalu,11-03-2021,301,Naveen Polishetty,505,Tollywood,631,15.0,8.5,68.0,11.0,57.0,Blockbuster,7.3,145,Amazon Prime Video,2021,3,March,Thursday
+280,Red,14-01-2021,246,Ram Pothineni,505,Tollywood,626,20.0,9.4,31.2,0.5,30.7,Average,6.4,146,Amazon Prime Video,2021,1,January,Thursday
+282,Rang De,26-03-2021,169,Nithiin,505,Tollywood,608,25.0,6.5,27.0,4.0,23.0,Flop,6.3,130,ZEE5,2021,3,March,Friday
+255,Pushpa: The Rise - Part 1,17-12-2021,128,Allu Arjun,505,Tollywood,621,150.0,63.7,350.1,36.3,313.8,Super Hit,7.6,179,Amazon Prime Video,2021,12,December,Friday
+273,Shyam Singha Roy,24-12-2021,175,Nani,505,Tollywood,636,40.0,12.0,49.0,5.5,43.5,Average,7.6,155,Netflix,2021,12,December,Friday
+269,Love Story,24-09-2021,216,Naga Chaitanya Akkineni,505,Tollywood,638,30.0,16.0,59.0,13.4,45.6,Hit,6.8,155,Amazon Prime Video,2021,9,September,Friday
+260,Vakeel Saab,09-04-2021,221,Pawan Kalyan,505,Tollywood,621,75.0,51.5,137.5,10.2,127.3,Hit,6.9,153,Amazon Prime Video,2021,4,April,Friday
+261,Akhanda,02-12-2021,241,Nandamuri Balakrishna,505,Tollywood,606,50.0,29.6,117.0,13.7,103.3,Hit,6.8,167,Disney+ Hotstar,2021,12,December,Thursday
+279,Most Eligible Bachelor,15-10-2021,307,Akhil Akkineni,505,Tollywood,636,30.0,8.1,38.0,4.3,33.7,Below Average,6.2,170,Netflix,2021,10,October,Friday

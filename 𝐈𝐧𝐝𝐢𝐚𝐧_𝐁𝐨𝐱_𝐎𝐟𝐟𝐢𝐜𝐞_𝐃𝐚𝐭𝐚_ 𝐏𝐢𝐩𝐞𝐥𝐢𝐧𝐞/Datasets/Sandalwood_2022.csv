@@ -1,0 +1,6 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+308,777 Charlie,10-06-2022,322,Rakshit Shetty,507,Sandalwood,705,15.0,9.25,102.75,5.8,96.95,Blockbuster,8.7,164,Voot,2022,6,June,Friday
+287,K.G.F: Chapter 2,13-04-2022,131,Yash,507,Sandalwood,621,100.0,159.0,1215.0,214.15,1000.85,All Time Blockbuster,8.2,166,Amazon Prime Video,2022,4,April,Wednesday
+291,Kantara,30-09-2022,312,Rishab Shetty,507,Sandalwood,699,16.0,2.8,407.82,44.0,363.82,All Time Blockbuster,8.2,148,Amazon Prime Video,2022,9,September,Friday
+309,VR (Vikrant Rona),28-07-2022,323,Sudeep,507,Sandalwood,626,80.0,25.5,100.35,5.6,94.75,Average,6.9,148,Disney+ Hotstar,2022,7,July,Thursday
+312,James,17-03-2022,325,Puneeth Rajkumar,507,Sandalwood,610,40.0,23.5,94.2,5.0,89.2,Super Hit,7.4,149,SonyLIV,2022,3,March,Thursday

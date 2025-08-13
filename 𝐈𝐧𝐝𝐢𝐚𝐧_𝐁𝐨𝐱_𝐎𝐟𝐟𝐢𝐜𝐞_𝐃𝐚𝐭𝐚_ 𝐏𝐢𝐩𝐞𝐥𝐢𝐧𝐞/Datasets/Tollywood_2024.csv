@@ -1,0 +1,15 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+540,Kalki 2898-AD,27-06-2024,153,Prabhas,505,Tollywood,746,500.0,177.7,1042.25,275.0,767.25,Blockbuster,7.0,180,Amazon Prime Video,2024,6,June,Thursday
+545,Hanu Man,12-01-2024,449,Teja Sajja,505,Tollywood,673,30.0,23.5,295.0,57.25,238.0,Blockbuster,7.8,158,Amazon Prime Video,2024,1,January,Friday
+557,Tillu Square,29-03-2024,456,Sidhu Jonnalagadda,505,Tollywood,750,35.0,22.65,126.75,30.0,96.75,Blockbuster,6.7,137,Aha,2024,3,March,Friday
+592,Eagle,09-02-2024,476,Ravi Teja,505,Tollywood,618,40.0,8.5,31.34,28.24,28.24,Flop,6.0,159,Amazon Prime Video,2024,2,February,Friday
+593,Mathu Vadalara 2,13-09-2024,477,Vennela Kishore,505,Tollywood,632,16.0,5.0,32.5,23.0,23.0,Disaster,7.0,139,Netflix,2024,9,September,Friday
+594,The Family Star,05-04-2024,149,Vijay Deverakonda,505,Tollywood,619,50.0,12.0,30.65,21.15,21.15,Super Hit,5.4,159,Amazon Prime Video,2024,4,April,Friday
+599,Gaami,08-03-2024,482,Vishwak Sen,505,Tollywood,757,15.0,7.5,24.0,18.62,18.62,Hit,6.5,147,ZEE5,2024,3,March,Friday
+602,Ooru Peru Bhairavakona,16-02-2024,483,Sundeep Kishan,505,Tollywood,758,15.0,4.8,22.47,20.22,20.22,Hit,5.6,133,Amazon Prime Video,2024,2,February,Friday
+603,Manamey,07-06-2024,163,Vikram Aditya,505,Tollywood,631,20.0,3.25,21.0,18.65,18.65,Disaster,6.0,155,Amazon Prime Video,2024,6,June,Friday
+604,Gangs of Godavari,13-06-2024,484,Vishwak Sen,505,Tollywood,759,20.0,7.5,20.25,18.0,18.0,Disaster,5.0,165,Netflix,2024,6,June,Thursday
+543,Devara: Part 1,26-09-2024,140,N.T. Rama Rao Jr.,505,Tollywood,627,250.0,142.0,421.6,78.85,342.75,Hit,6.4,176,Amazon Prime Video,2024,9,September,Thursday
+549,Guntur Kaaram,12-01-2024,143,Mahesh Babu,505,Tollywood,606,150.0,68.7,180.5,31.0,149.5,Below Average,5.4,159,Amazon Prime Video,2024,1,January,Friday
+564,Saripodhaa Sanivaaram,28-08-2024,343,Nani,505,Tollywood,618,60.0,19.65,100.03,26.0,74.03,Super Hitt,7.0,166,Amazon Prime Video,2024,8,August,Wednesday
+587,Naa Saami Ranga,14-01-2024,471,Nagarjuna Akkineni,505,Tollywood,698,30.0,6.5,37.31,35.81,35.81,Flop,4.5,150,Amazon Prime Video,2024,1,January,Sunday

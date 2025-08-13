@@ -1,0 +1,20 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+416,Kaithi,25-10-2019,296,Karthi,503,Kollywood,621,25.0,9.0,106.8,20.0,86.8,Blockbuster,8.4,145,Amazon Prime Video,2019,10,October,Friday
+424,Namma Veettu Pillai,27-09-2019,155,Sivakarthikeyan,503,Kollywood,610,30.0,10.0,72.0,12.0,60.0,Blockbuster,6.0,153,Sun NXT,2019,9,September,Friday
+425,Asuran,03-10-2019,157,Dhanush,503,Kollywood,606,25.0,5.4,68.8,48.6,20.2,Blockbuster,8.4,141,Amazon Prime Video,2019,10,October,Thursday
+430,Comali,16-08-2019,327,Jayam Ravi,503,Kollywood,631,25.0,13.0,53.0,8.5,43.5,Blockbuster,6.9,143,Amazon Prime Video,2019,8,August,Friday
+461,LKG,22-02-2019,404,RJ Balaji,503,Kollywood,631,5.0,3.5,20.9,4.7,16.2,Blockbuster,6.9,124,Aha,2019,2,February,Friday
+395,Bigil,25-10-2019,201,Joseph Vijay,503,Kollywood,665,80.0,62.8,295.85,94.0,201.85,Super Hit,6.7,179,Amazon Prime Video,2019,10,October,Friday
+400,Petta,10-01-2019,373,Rajinikanth,503,Kollywood,606,25.0,37.5,232.9,74.0,158.9,Super Hit,7.1,171,Amazon Prime Video,2019,1,January,Thursday
+405,Viswasam,11-01-2019,114,Ajith Kumar,503,Kollywood,606,90.0,29.0,204.2,43.0,161.2,Super Hit,6.5,153,Amazon Prime Video,2019,1,January,Friday
+412,Kanchana 3,19-04-2019,259,Raghava Lawrence,503,Kollywood,652,40.0,20.0,130.2,15.0,115.2,Super Hit,4.2,164,Amazon Prime Video,2019,4,April,Friday
+415,Nerkonda Paarvai,09-08-2019,225,Ajith Kumar,503,Kollywood,621,50.0,27.0,126.7,25.0,101.7,Hit,7.7,157,Amazon Prime Video,2019,8,August,Friday
+419,Kaappaan,20-09-2019,248,Suriya,503,Kollywood,618,75.0,15.5,94.5,14.0,80.5,Average,6.2,166,Amazon Prime Video,2019,9,September,Friday
+426,NGK,31-05-2019,344,Suriya,503,Kollywood,606,65.0,19.0,62.0,12.0,50.0,Disaster,5.7,148,Amazon Prime Video,2019,5,May,Friday
+435,Kadaram Kondan,19-07-2019,387,Vikram,503,Kollywood,607,40.0,9.0,40.0,5.0,35.0,Flop,5.6,121,Amazon Prime Video,2019,7,July,Friday
+439,Hero,20-12-2019,158,Sivakarthikeyan,503,Kollywood,627,30.0,5.0,37.2,3.8,33.4,Below Average,6.3,164,Amazon Prime Video,2019,12,December,Friday
+443,Thambi,20-12-2019,177,Karthi,503,Kollywood,618,25.0,4.0,33.5,6.0,27.5,Below Average,6.7,149,Amazon Prime Video,2019,12,December,Friday
+448,Mr.Local,03-05-2019,395,Sivakarthikeyan,503,Kollywood,613,35.0,9.0,29.0,6.5,22.5,Disaster,3.3,155,Amazon Prime Video,2019,5,May,Friday
+449,Super Deluxe,05-04-2019,396,Vijay Sethupathi,503,Kollywood,733,25.0,2.2,27.8,6.0,21.8,Below Average,8.2,176,Netflix,2019,4,April,Friday
+452,Thadam,01-03-2019,398,Arun Vijay,503,Kollywood,626,14.0,1.2,26.0,4.0,22.0,Above Average,8.1,138,Amazon Prime Video,2019,3,March,Friday
+455,Dhilluku Dhuddu 2,25-01-2019,400,Santhanam,503,Kollywood,628,7.0,2.2,24.0,7.5,16.5,Super Hit,5.4,119,Amazon Prime Video,2019,1,January,Friday

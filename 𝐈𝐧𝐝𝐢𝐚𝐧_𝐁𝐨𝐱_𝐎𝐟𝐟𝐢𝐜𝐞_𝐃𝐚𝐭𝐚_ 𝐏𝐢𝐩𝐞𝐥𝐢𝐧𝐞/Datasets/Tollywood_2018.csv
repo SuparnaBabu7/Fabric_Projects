@@ -1,0 +1,24 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+55,Geetha Govindam,17-08-2018,149,Vijay Deverakonda,505,Tollywood,608,8.5,16.0,123.0,11.0,112.3,Blockbuster,7.7,142,ZEE5,2018,8,August,Friday
+91,Rx 100,12-07-2018,183,Kartikeya Gummakonda,505,Tollywood,619,2.0,1.5,27.3,1.0,26.3,Blockbuster,6.9,153,Amazon Prime Video,2018,7,July,Thursday
+60,Mahanati,11-05-2018,153,Keerthy Suresh,505,Tollywood,633,20.0,3.5,83.5,10.5,73.0,Blockbuster,8.4,177,Amazon Prime Video,2018,5,May,Friday
+97,Chalo,02-02-2018,189,Naga Shaurya,505,Tollywood,646,5.0,1.2,24.0,4.8,19.2,Blockbuster,6.3,145,Amazon Prime Video,2018,2,February,Friday
+99,Goodachari,03-08-2018,191,Adivi Sesh,505,Tollywood,618,5.0,2.9,23.4,5.5,17.9,Blockbuster,7.8,147,Amazon Prime Video,2018,8,August,Friday
+57,Agnyaathavaasi,09-01-2018,143,Pawan Kalyan,505,Tollywood,606,90.0,61.0,96.0,19.0,77.0,Disaster,4.3,158,Amazon Prime Video,2018,1,January,Tuesday
+83,Taxiwaala,16-11-2018,175,Vijay Deverakonda,505,Tollywood,641,10.0,3.5,38.0,3.0,35.0,Hit,6.8,137,Amazon Prime Video,2018,11,November,Friday
+44,Rangasthalam,30-03-2018,128,Ram Charan,505,Tollywood,606,60.0,42.0,218.5,23.5,195.0,Blockbuster,8.2,170,Amazon Prime Video,2018,3,March,Friday
+49,Aravindha Sametha Veera Raghava,10-10-2018,143,N.T. Rama Rao Jr.,505,Tollywood,606,65.0,56.0,158.6,48.8,109.8,Super Hit,7.3,162,Amazon Prime Video,2018,10,October,Wednesday
+56,"Naa Peru Surya, Naa Illu India",04-05-2018,150,Allu Arjun,505,Tollywood,606,65.0,40.0,100.3,21.3,79.0,Above Average,6.7,163,Amazon Prime Video,2018,5,May,Friday
+73,Jai Simha,11-01-2018,110,Nandamuri Balakrishna,505,Tollywood,610,25.0,12.2,49.5,1.5,48.0,Hit,4.7,159,Amazon Prime Video,2018,1,January,Thursday
+70,Devadas,28-09-2018,163,Nagarjuna Akkineni,505,Tollywood,610,35.0,12.0,51.6,3.6,48.0,Average,6.5,159,Amazon Prime Video,2018,9,September,Friday
+88,Sailaja Reddy Alludu,15-09-2018,180,Naga Chaitanya Akkineni,505,Tollywood,610,25.0,11.4,32.4,3.5,28.9,Flop,5.1,147,Amazon Prime Video,2018,9,September,Saturday
+90,Krishnarjuna Yudham,13-04-2018,182,Nani,505,Tollywood,612,25.0,9.7,28.6,2.9,25.7,Flop,5.8,156,Amazon Prime Video,2018,4,April,Friday
+46,Bharat Ane Nenu,19-04-2018,140,Mahesh Babu,505,Tollywood,627,70.0,58.0,190.5,90.5,100.0,Super Hit,7.5,173,Amazon Prime Video,2018,4,April,Thursday
+86,Hello Guru Prema Kosame,18-10-2018,178,Ram Pothineni,505,Tollywood,630,15.0,4.2,35.0,2.0,33.0,Above Average,7.0,140,Amazon Prime Video,2018,10,October,Thursday
+77,Tholi Prema,02-02-2018,169,Varun Tej,505,Tollywood,638,15.0,9.5,44.1,4.1,40.0,Hit,7.2,137,Amazon Prime Video,2018,2,February,Friday
+93,Srinivasa Kalyanam,10-08-2018,185,Nithiin,505,Tollywood,643,20.0,5.5,25.5,1.6,23.9,Flop,6.1,140,Amazon Prime Video,2018,8,August,Friday
+95,U-Turn,13-09-2018,187,Samantha Ruth Prabhu,505,Tollywood,644,15.0,2.0,25.0,2.2,22.8,Hit,6.9,128,Amazon Prime Video,2018,9,September,Thursday
+98,Nota,05-10-2018,190,Vijay Deverakonda,505,Tollywood,647,25.0,7.3,23.5,2.6,20.9,Disaster,6.2,145,Amazon Prime Video,2018,10,October,Friday
+101,Saakshyam,27-07-2018,192,Sai Srinivas Bellamkonda,505,Tollywood,621,30.0,6.2,22.7,0.75,22.0,Disaster,4.6,166,Amazon Prime Video,2018,7,July,Friday
+102,Nela Ticket,25-05-2018,193,Ravi Teja,505,Tollywood,649,25.0,6.7,20.1,0.5,19.6,Disaster,4.3,120,Amazon Prime Video,2018,5,May,Friday
+103,Touch Chesi Chudu,02-02-2018,194,Ravi Teja,505,Tollywood,632,25.0,8.7,20.0,1.5,18.5,Disaster,4.7,147,Amazon Prime Video,2018,2,February,Friday

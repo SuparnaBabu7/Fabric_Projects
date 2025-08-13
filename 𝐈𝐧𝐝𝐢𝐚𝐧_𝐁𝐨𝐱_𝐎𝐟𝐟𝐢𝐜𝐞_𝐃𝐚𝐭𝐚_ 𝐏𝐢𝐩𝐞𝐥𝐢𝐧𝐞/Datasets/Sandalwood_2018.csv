@@ -1,0 +1,4 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+81,Tagaru,23-02-2018,173,Shivarajkumar,507,Sandalwood,640,10.0,7.0,40.0,0.0,40.0,Blockbuster,7.9,129,Amazon Prime Video,2018,2,February,Friday
+41,K.G.F: Chapter 1,21-12-2018,131,Yash,507,Sandalwood,621,50.0,25.0,238.0,10.0,228.0,All Time Blockbuster,8.2,154,Amazon Prime Video,2018,12,December,Friday
+67,The Villain,18-10-2018,160,Shivarajkumar,507,Sandalwood,618,45.0,12.0,52.7,7.2,45.5,Above Average,4.9,176,Amazon Prime Video,2018,10,October,Thursday

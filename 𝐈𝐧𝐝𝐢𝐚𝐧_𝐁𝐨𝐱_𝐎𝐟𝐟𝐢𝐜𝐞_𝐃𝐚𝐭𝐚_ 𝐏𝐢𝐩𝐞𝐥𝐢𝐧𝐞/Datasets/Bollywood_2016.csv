@@ -1,0 +1,20 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+214,Sultan,06-07-2016,111,Salman Khan,501,Bollywood,680,140.0,71.3,607.7,186.5,421.2,Blockbuster,7.1,170,Amazon Prime Video,2016,7,July,Wednesday
+228,Baaghi,29-04-2016,121,Tiger Shroff,501,Bollywood,663,35.0,11.8,125.8,23.1,102.7,Blockbuster,5.3,133,Amazon Prime Video,2016,4,April,Friday
+219,M.S. Dhoni: The Untold Story,30-09-2016,275,Sushant Singh Rajput,501,Bollywood,682,100.0,21.4,215.4,30.8,184.6,Super Hit,8.0,184,Amazon Prime Video,2016,9,September,Friday
+245,A Flying Jatt,25-08-2016,135,Tiger Shroff,501,Bollywood,688,45.0,7.1,56.2,4.1,52.1,Flop,3.1,151,Amazon Prime Video,2016,8,August,Thursday
+213,Dangal,22-12-2016,271,Aamir Khan,501,Bollywood,679,70.0,58.0,2122.3,1535.3,587.0,All Time Blockbuster,8.3,161,Disney+ Hotstar,2016,12,December,Thursday
+216,Ae Dil Hai Mushkil,28-10-2016,272,Ranbir Kapoor,501,Bollywood,681,70.0,13.2,240.7,82.2,158.4,Hit,5.8,158,Amazon Prime Video,2016,10,October,Friday
+217,Airlift,22-01-2016,273,Akshay Kumar,501,Bollywood,634,35.0,12.5,228.0,45.0,183.0,Super Hit,7.9,130,JioCinema,2016,1,January,Friday
+218,Rustom,12-08-2016,274,Akshay Kumar,501,Bollywood,654,50.0,14.1,216.0,39.2,177.0,Super Hit,7.0,148,ZEE5,2016,8,August,Friday
+220,Housefull 3,03-06-2016,276,Akshay Kumar,501,Bollywood,615,85.0,15.2,185.7,31.5,154.2,Hit,4.9,140,Disney+ Hotstar,2016,6,June,Friday
+221,Fan,15-04-2016,277,Shah Rukh Khan,501,Bollywood,627,110.0,19.1,182.2,69.0,113.2,Average,6.9,138,Amazon Prime Video,2016,4,April,Friday
+224,Shivaay,28-10-2016,279,Ajay Devgn,501,Bollywood,683,100.0,10.2,147.2,8.7,138.5,Below Average,6.1,153,Amazon Prime Video,2016,10,October,Friday
+226,Dear Zindagi,25-11-2016,280,Alia Bhatt,501,Bollywood,636,50.0,8.8,136.1,43.7,92.4,Hit,7.4,151,Netflix,2016,11,November,Friday
+229,Dishoom,29-07-2016,281,John Abraham,501,Bollywood,684,50.0,11.0,119.5,25.0,94.5,Average,5.2,124,Disney+ Hotstar,2016,7,July,Friday
+230,Mohenjo Daro,12-08-2016,282,Hrithik Roshan,501,Bollywood,685,115.0,8.9,107.8,29.2,78.6,Disaster,5.6,155,Netflix,2016,8,August,Friday
+231,Pink,16-09-2016,283,Amitabh Bachchan,501,Bollywood,654,30.0,4.3,104.2,15.9,88.3,Super Hit,8.0,136,Disney+ Hotstar,2016,9,September,Friday
+233,Befikre,09-12-2016,284,Vaani Kapoor,501,Bollywood,608,65.0,10.4,99.4,15.7,83.7,Below Average,4.1,130,Amazon Prime Video,2016,12,December,Friday
+243,Force 2,18-11-2016,287,John Abraham,501,Bollywood,651,40.0,6.1,58.7,10.5,48.2,Flop,6.2,127,Disney+ Hotstar,2016,11,November,Friday
+246,Kahaani 2,02-12-2016,289,Vidya Balan,501,Bollywood,689,20.0,4.3,55.9,11.3,44.6,Average,6.5,127,ZEE5,2016,12,December,Friday
+248,Azhar,13-05-2016,291,Emraan Hashmi,501,Bollywood,682,35.0,6.4,50.1,5.4,44.7,Flop,5.7,130,Amazon Prime Video,2016,5,May,Friday

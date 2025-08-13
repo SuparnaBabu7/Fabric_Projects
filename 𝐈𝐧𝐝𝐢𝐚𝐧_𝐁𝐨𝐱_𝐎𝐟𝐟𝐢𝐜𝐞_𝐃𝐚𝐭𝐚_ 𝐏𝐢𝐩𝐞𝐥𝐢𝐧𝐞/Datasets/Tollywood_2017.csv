@@ -1,0 +1,25 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+157,Mahanubhavudu,29-09-2017,180,Sharwanand,505,Tollywood,608,15.0,7.0,45.3,5.2,40.1,Blockbuster,6.4,151,Google Play Movies,2017,9,September,Friday
+142,Nenu Local,03-02-2017,178,Nani,505,Tollywood,615,20.0,9.7,60.0,9.2,50.8,Blockbuster,6.4,138,ZEE5,2017,2,February,Friday
+146,Shatamanam Bhavati,14-01-2017,185,Sharwanand,505,Tollywood,647,15.0,6.5,53.5,5.2,48.3,Blockbuster,7.0,129,Amazon Prime Video,2017,1,January,Saturday
+131,Fidaa,21-07-2017,216,Varun Tej,505,Tollywood,608,15.0,8.9,87.0,13.1,73.9,Blockbuster,7.4,144,Disney+ Hotstar,2017,7,July,Friday
+148,Ninnu Kori,07-07-2017,229,Nani,505,Tollywood,630,20.0,10.6,52.3,7.7,44.6,Blockbuster,7.5,137,Amazon Prime Video,2017,7,July,Friday
+118,Khaidi No. 150,13-01-2017,206,Chiranjeevi,505,Tollywood,655,65.0,50.0,160.0,16.3,143.7,Blockbuster,5.8,142,Amazon Prime Video,2017,1,January,Friday
+122,Spyder,27-09-2017,107,Mahesh Babu,505,Tollywood,607,120.0,51.0,125.0,23.0,102.0,Flop,6.3,155,Amazon Prime Video,2017,9,September,Wednesday
+165,Hello,21-12-2017,122,Akhil Akkineni,505,Tollywood,616,30.0,4.2,36.7,6.4,30.3,Below Average,7.3,131,Amazon Prime Video,2017,12,December,Thursday
+152,Rarandoi Veduka Chudham,26-05-2017,193,Avantika,505,Tollywood,616,25.0,6.9,50.0,3.6,46.4,Above Average,5.6,145,Amazon Prime Video,2017,5,May,Friday
+104,Bãhubali 2: The Conclusion,28-04-2017,195,Prabhas,505,Tollywood,606,250.0,217.0,1788.0,371.0,1417.0,All Time Blockbuster,8.2,167,Netflix,2017,4,April,Friday
+124,Duvvada Jagannadham,22-06-2017,210,Allu Arjun,505,Tollywood,632,50.0,33.0,117.1,12.3,104.8,Above Average,5.9,152,Amazon Prime Video,2017,6,June,Thursday
+128,Katamarayudu,24-03-2017,214,Pawan Kalyan,505,Tollywood,612,70.0,35.0,97.8,7.5,90.3,Below Average,5.5,146,Amazon Prime Video,2017,3,March,Friday
+134,Gautamiputra Satakarni,20-01-2017,219,Nandamuri Balakrishna,505,Tollywood,657,45.0,21.0,78.6,11.1,67.5,Hit,6.3,131,Amazon Prime Video,2017,1,January,Friday
+137,MCA Middle Class Abbayi,21-12-2017,221,Nani,505,Tollywood,612,25.0,15.5,70.0,7.0,63.0,Super Hit,6.0,144,Amazon Prime Video,2017,12,December,Thursday
+140,The Ghazi Attack,17-02-2017,224,Rana Daggubati,505,Tollywood,659,20.0,5.9,62.0,5.0,57.0,Super Hit,7.5,116,Amazon Prime Video,2017,2,February,Friday
+149,Raja the Great,13-10-2017,230,Ravi Teja,505,Tollywood,612,30.0,7.2,51.7,2.4,49.3,Hit,6.3,149,Amazon Prime Video,2017,10,October,Friday
+160,Nene Raju Nene Mantri,11-08-2017,238,Rana Daggubati,505,Tollywood,663,20.0,8.1,44.8,4.8,40.0,Super Hit,5.8,153,Amazon Prime Video,2017,8,August,Friday
+164,Guru,31-03-2017,240,Venkatesh Daggubati,505,Tollywood,665,15.0,4.1,38.1,1.2,36.9,Super Hit,7.6,116,Amazon Prime Video,2017,3,March,Friday
+166,Jaya Janaki Nayaka,11-08-2017,241,Sai Srinivas Bellamkonda,505,Tollywood,616,35.0,6.4,36.2,0.8,35.4,Flop,5.1,149,Amazon Prime Video,2017,8,August,Friday
+167,Paisa Vasool,01-09-2017,242,Nandamuri Balakrishna,505,Tollywood,612,30.0,14.1,36.0,1.5,34.5,Flop,4.3,138,Amazon Prime Video,2017,9,September,Friday
+168,Raju Gari Gadhi 2,12-10-2017,243,Samantha Ruth Prabhu,505,Tollywood,641,25.0,8.4,35.6,2.2,33.4,Average,5.3,117,Amazon Prime Video,2017,10,October,Thursday
+171,Vunnadhi Okate Zindagi,29-09-2017,246,Ram Pothineni,505,Tollywood,647,15.0,7.6,30.8,2.3,28.5,Above Average,6.4,152,Amazon Prime Video,2017,9,September,Friday
+179,Winner,24-02-2017,253,Sai Dharam Tej,505,Tollywood,606,25.0,9.0,25.0,0.7,24.3,Disaster,4.6,155,Amazon Prime Video,2017,2,February,Friday
+180,Goutham Nanda,28-07-2017,254,Gopichand,505,Tollywood,627,20.0,6.1,20.4,0.4,20.0,Flop,6.3,155,Amazon Prime Video,2017,7,July,Friday

@@ -1,0 +1,7 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+14,Race Gurram,11-04-2014,113,Allu Arjun,505,Tollywood,612,50.0,6.8,108.9,6.0,102.9,Blockbuster,7.3,163,Amazon Prime Video,2014,4,April,Friday
+23,Manam,23-05-2014,122,Nagarjuna Akkineni,505,Tollywood,617,25.0,3.5,62.0,6.4,55.6,Blockbuster,8.0,163,Amazon Prime Video,2014,5,May,Friday
+26,Yevadu,11-01-2014,125,Ram Charan,505,Tollywood,618,40.0,8.6,57.5,2.2,55.3,Below Average,5.9,165,Amazon Prime Video,2014,1,January,Saturday
+25,Govindudu Andari Vaadele,01-10-2014,124,Ram Charan,505,Tollywood,613,30.0,10.0,61.0,3.2,57.8,Above Average,5.7,160,Amazon Prime Video,2014,10,October,Wednesday
+24,Aagadu,19-09-2014,123,Mahesh Babu,505,Tollywood,612,65.0,24.0,62.0,7.8,54.2,Disaster,5.3,165,Amazon Prime Video,2014,9,September,Friday
+29,1 - Nenokkadine,10-01-2014,128,Mahesh Babu,505,Tollywood,618,70.0,23.0,52.5,5.5,47.0,Disaster,8.0,170,Amazon Prime Video,2014,1,January,Friday

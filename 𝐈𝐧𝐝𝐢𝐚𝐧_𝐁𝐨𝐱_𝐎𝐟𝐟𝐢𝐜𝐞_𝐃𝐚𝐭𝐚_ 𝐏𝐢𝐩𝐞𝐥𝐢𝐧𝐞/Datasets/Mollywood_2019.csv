@@ -1,0 +1,14 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+68,Njan Prakashan,04-01-2019,161,Fahadh Faasil,509,Mollywood,620,8.0,1.5,52.0,17.5,34.5,Blockbuster,7.7,131,Amazon Prime Video,2019,1,January,Friday
+413,Lucifer,29-03-2019,378,Mohanlal,509,Mollywood,621,35.0,14.0,129.2,50.5,78.7,Blockbuster,7.5,175,Amazon Prime Video,2019,3,March,Friday
+422,Madhura Raja,12-04-2019,278,Mammootty,509,Mollywood,610,30.0,9.1,78.4,16.0,62.4,Blockbuster,5.9,147,Amazon Prime Video,2019,4,April,Friday
+441,Thanneer Mathan Dhinangal,09-08-2019,390,Vineeth Sreenivasan,509,Mollywood,630,4.0,1.2,34.1,13.2,20.9,Blockbuster,7.8,136,Amazon Prime Video,2019,8,August,Friday
+446,Love Action Drama,13-09-2019,393,Nivin Pauly,509,Mollywood,630,8.0,2.0,31.1,8.0,23.1,Blockbuster,5.2,146,Sun NXT,2019,9,September,Friday
+447,Driving Licence,24-12-2019,394,Prithviraj Sukumaran,509,Mollywood,732,4.0,1.1,31.0,7.5,23.5,Blockbuster,7.2,135,Amazon Prime Video,2019,12,December,Tuesday
+436,Kumbalangi Nights,22-02-2019,388,Fahadh Faasil,509,Mollywood,608,5.0,0.87,39.4,16.4,23.0,Blockbuster,8.5,135,Amazon Prime Video,2019,2,February,Friday
+444,Mamangam: History of the Brave,13-12-2019,392,Mammootty,509,Mollywood,696,45.0,9.5,32.4,11.7,20.7,Disaster,5.3,157,Amazon Prime Video,2019,12,December,Friday
+450,Ittymaani: Made in China,05-09-2019,397,Mohanlal,509,Mollywood,620,10.0,2.8,27.7,9.0,18.7,Hit,4.3,158,Amazon Prime Video,2019,9,September,Thursday
+456,Oru Yamandan Premakadha,03-05-2019,401,Dulquer Salmaan,509,Mollywood,608,7.0,2.0,23.2,6.2,17.0,Hit,5.1,165,Amazon Prime Video,2019,5,May,Friday
+457,Uyare,03-05-2019,402,Parvathy Thiruvothu,509,Mollywood,647,6.0,1.2,23.7,7.8,15.9,Super Hit,8.0,125,Amazon Prime Video,2019,5,May,Friday
+458,Unda,14-06-2019,341,Mammootty,509,Mollywood,691,8.0,1.7,23.0,7.0,16.0,Hit,7.7,130,Amazon Prime Video,2019,6,June,Friday
+459,Virus,14-06-2019,403,Parvathy Thiruvothu,509,Mollywood,664,6.0,1.1,22.2,6.4,15.8,Super Hit,7.7,152,Amazon Prime Video,2019,6,June,Friday

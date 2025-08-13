@@ -1,0 +1,16 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+34,Sanju,29-06-2018,101,Ranbir Kapoor,501,Bollywood,623,100.0,54.4,588.5,150.0,438.5,Blockbuster,7.6,155,Netflix,2018,6,June,Friday
+36,Simmba,28-12-2018,105,Ranveer Singh,501,Bollywood,605,125.0,20.2,390.0,95.0,295.0,Blockbuster,5.5,158,ZEE5,2018,12,December,Friday
+35,Padmaavat,25-01-2018,133,Deepika Padukone,501,Bollywood,624,190.0,25.0,585.0,185.0,400.0,Blockbuster,7.1,163,Amazon Prime Video,2018,1,January,Thursday
+39,Baaghi 2,28-03-2018,136,Disha Patani,501,Bollywood,626,65.0,25.0,257.0,45.1,211.9,Blockbuster,4.8,137,Disney+ Hotstar,2018,3,March,Wednesday
+47,Stree,31-08-2018,141,Rajkummar Rao,501,Bollywood,628,25.0,9.0,182.0,15.0,167.0,Blockbuster,7.5,128,Netflix,2018,8,August,Friday
+51,Sonu Ke Titu Ki Sweety,23-02-2018,145,Kartik Aaryan,501,Bollywood,630,25.0,13.0,156.4,17.0,139.4,Blockbuster,7.1,138,Amazon Prime Video,2018,2,February,Friday
+38,Race 3,15-06-2018,135,Anil Kapoor,501,Bollywood,607,150.0,44.0,300.0,83.0,217.0,Flop,1.9,160,Amazon Prime Video,2018,6,June,Friday
+48,Zero,21-12-2018,142,Shah Rukh Khan,501,Bollywood,608,200.0,23.0,178.0,57.2,120.8,Disaster,5.2,164,Netflix,2018,12,December,Friday
+52,Raid,16-03-2018,146,Ajay Devgn,501,Bollywood,621,35.0,12.0,154.1,22.0,132.1,Hit,7.4,122,Disney+ Hotstar,2018,3,March,Friday
+42,Hichki,23-03-2018,137,Rani Mukerji,501,Bollywood,620,30.0,5.0,236.4,177.4,59.0,Super Hit,7.5,116,Amazon Prime Video,2018,3,March,Friday
+37,Thugs of Hindostan,07-11-2018,134,Lloyd Owen,501,Bollywood,625,275.0,76.0,327.0,133.5,194.0,Flop,4.1,164,Amazon Prime Video,2018,11,November,Wednesday
+45,Raazi,11-05-2018,139,Alia Bhatt,501,Bollywood,627,30.0,7.5,195.0,37.0,157.0,Super Hit,7.7,138,Amazon Prime Video,2018,5,May,Friday
+50,Gold,15-08-2018,144,Krishan Tandon,501,Bollywood,629,80.0,38.0,158.0,17.0,141.0,Average,7.3,151,Amazon Prime Video,2018,8,August,Wednesday
+54,Veere Di Wedding,01-06-2018,148,Kareena Kapoor,501,Bollywood,631,30.0,10.7,140.0,35.0,105.0,Average,3.3,135,Amazon Prime Video,2018,6,June,Friday
+249,Happy Bhag Jayegi,24-08-2018,292,Diana Penty,501,Bollywood,630,20.0,2.3,46.5,6.5,40.0,Hit,6.4,126,ZEE5,2018,8,August,Friday

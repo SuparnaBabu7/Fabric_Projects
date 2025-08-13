@@ -1,0 +1,18 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+290,Vikram,03-06-2022,296,Kamal Haasan,503,Kollywood,621,120.0,62.0,414.43,125.0,289.43,Blockbuster,8.3,175,Amazon Prime Video,2022,6,June,Friday
+288,Ponniyin Selvan: Part One,30-09-2022,310,Vikram,503,Kollywood,698,250.0,80.7,488.36,175.0,313.36,Blockbuster,7.6,167,Amazon Prime Video,2022,9,September,Friday
+305,Thiruchitrambalam,18-08-2022,320,Dhanush,503,Kollywood,704,30.0,11.0,117.2,26.9,90.3,Blockbuster,7.9,131,Sun NXT,2022,8,August,Thursday
+306,Don,13-05-2022,321,Sivakarthikeyan,503,Kollywood,608,35.0,13.0,114.0,23.35,90.65,Blockbuster,6.8,165,Netflix,2022,5,May,Friday
+317,Love Today,02-12-2022,327,Pradeep Ranganathan,503,Kollywood,608,6.0,2.85,83.55,5.0,78.55,Blockbuster,8.0,154,Netflix,2022,12,December,Friday
+295,Beast,13-04-2022,181,Joseph Vijay,503,Kollywood,603,150.0,82.4,216.58,65.0,151.58,Below Average,5.2,155,Netflix,2022,4,April,Wednesday
+329,Cobra,31-08-2022,172,Vikram,503,Kollywood,607,90.0,25.0,58.86,8.0,50.86,Disaster,6.0,183,Amazon Prime Video,2022,8,August,Wednesday
+334,Kaathu Vaakula Rendu Kaadhal,28-04-2022,152,Vijay Sethupathi,503,Kollywood,608,25.0,8.5,52.5,10.0,42.5,Super Hit,5.5,157,Disney+ Hotstar,2022,4,April,Thursday
+321,Etharkkum Thunindhavan,10-03-2022,155,Suriya,503,Kollywood,621,65.0,14.0,71.4,14.0,57.4,Flop,6.4,151,Netflix,2022,3,March,Thursday
+364,Yaanai,01-07-2022,166,Arun Vijay,503,Kollywood,619,15.0,2.7,21.8,2.0,19.8,Average,6.1,154,Amazon Prime Video,2022,7,July,Friday
+316,Sardar,21-10-2022,158,Karthi,503,Kollywood,627,35.0,6.1,84.5,20.0,64.5,Super Hit,7.5,166,Amazon Prime Video,2022,10,October,Friday
+298,Valimai,25-02-2022,225,Ajith Kumar,503,Kollywood,607,150.0,47.5,164.5,41.0,123.5,Flop,6.1,178,ZEE5,2022,2,February,Friday
+332,Vendhu Thanindhathu Kaadu,15-09-2022,262,Silambarasan Rajendar,503,Kollywood,605,25.0,10.5,54.5,13.5,41.0,Super Hit,7.3,177,Amazon Prime Video,2022,9,September,Thursday
+345,Prince,21-10-2022,301,Premgi Amaren,503,Kollywood,619,35.0,8.5,41.13,9.0,32.13,Flop,4.4,143,Amazon Prime Video,2022,10,October,Friday
+324,Viruman,12-08-2022,330,Arundhati,503,Kollywood,606,30.0,9.8,63.77,8.5,55.27,Hit,4.9,149,Amazon Prime Video,2022,8,August,Friday
+340,Rocketry: The Nambi Effect,01-07-2022,336,Madhavan,503,Kollywood,633,25.0,2.5,45.25,5.0,40.25,Hit,8.7,157,Amazon Prime Video,2022,7,July,Friday
+349,Naane Varuvean,29-09-2022,344,Dhanush,503,Kollywood,715,30.0,9.0,35.6,6.0,29.6,Flop,6.2,122,Amazon Prime Video,2022,9,September,Thursday

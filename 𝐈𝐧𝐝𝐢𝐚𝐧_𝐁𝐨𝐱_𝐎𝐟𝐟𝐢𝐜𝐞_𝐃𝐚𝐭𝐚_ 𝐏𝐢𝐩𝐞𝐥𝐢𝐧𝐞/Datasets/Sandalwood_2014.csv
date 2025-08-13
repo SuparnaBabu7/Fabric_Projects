@@ -1,0 +1,4 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+31,Maanikya,01-05-2014,130,V. Ravichandran,507,Sandalwood,606,15.0,3.5,43.0,0.0,43.0,Blockbuster,6.5,165,ZEE5,2014,5,May,Thursday
+32,Ugramm,21-02-2014,131,Sri Murali,507,Sandalwood,621,4.0,2.0,31.0,0.0,31.0,Blockbuster,8.0,132,Amazon Prime Video,2014,2,February,Friday
+27,Mr. And Mrs. Ramchari,25-12-2014,126,Yash,507,Sandalwood,619,6.0,4.0,53.0,1.4,51.6,All Time Blockbuster,7.3,156,Amazon Prime Video,2014,12,December,Thursday

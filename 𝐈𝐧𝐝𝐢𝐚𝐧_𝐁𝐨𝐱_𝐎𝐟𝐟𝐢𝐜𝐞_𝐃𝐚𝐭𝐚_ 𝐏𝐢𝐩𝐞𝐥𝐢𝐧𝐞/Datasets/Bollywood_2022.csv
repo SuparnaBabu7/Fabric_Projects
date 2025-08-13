@@ -1,0 +1,25 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+293,The Kashmir Files,11-03-2022,314,Mithun Chakraborty,501,Bollywood,647,20.0,4.9,341.0,46.0,295.0,Blockbuster,8.6,170,ZEE5,2022,3,March,Friday
+327,Cirkus,23-12-2022,105,Ranveer Singh,501,Bollywood,620,70.0,9.38,60.6,15.0,45.6,Disaster,4.4,139,Netflix,2022,12,December,Friday
+328,Ek Villain Returns,29-07-2022,109,John Abraham,501,Bollywood,709,75.0,10.35,60.0,9.0,51.0,Disaster,4.4,129,Netflix,2022,7,July,Friday
+310,Bhediya,25-11-2022,141,Varun Dhawan,501,Bollywood,641,60.0,12.06,94.91,13.5,81.41,Average,6.7,156,JioCinema,2022,11,November,Friday
+296,Gangubai Kathiawadi,25-02-2022,133,Alia Bhatt,501,Bollywood,701,180.0,16.0,211.5,56.0,155.5,Average,7.8,152,Netflix,2022,2,February,Friday
+358,Heropanti 2,29-04-2022,136,Kriti Sanon,501,Bollywood,719,80.0,9.0,28.0,2.7,25.3,Disaster,2.3,145,Amazon Prime Video,2022,4,April,Friday
+322,Raksha Bandhan,11-08-2022,142,Akshay Kumar,501,Bollywood,707,70.0,12.7,68.38,11.0,57.38,Disaster,5.4,108,ZEE5,2022,8,August,Thursday
+303,Laal Singh Chaddha,11-08-2022,196,Sharik Khan Jr.,501,Bollywood,608,180.0,23.85,133.5,61.0,72.5,Disaster,5.6,159,Netflix,2022,8,August,Thursday
+294,Bhool Bhulaiyaa 2,20-05-2022,215,Tabu,501,Bollywood,628,80.0,20.6,265.5,49.0,216.5,Blockbuster,5.7,143,Netflix,2022,5,May,Friday
+339,Uunchai,11-11-2022,255,Amitabh Bachchan,501,Bollywood,713,40.0,3.15,48.32,9.5,38.82,Average,7.0,173,ZEE5,2022,11,November,Friday
+336,Runway 34,29-04-2022,279,Ajay Devgn,501,Bollywood,664,80.0,5.0,50.7,9.0,41.7,Disaster,7.0,145,Amazon Prime Video,2022,4,April,Friday
+289,Brahmastra Part One: Shiva,09-09-2022,311,Amitabh Bachchan,501,Bollywood,673,400.0,70.0,431.0,115.5,315.5,Below Average,5.6,167,Disney+ Hotstar,2022,9,September,Friday
+301,Jug Jugg Jeeyo,24-06-2022,317,Varun Dhawan,501,Bollywood,702,100.0,11.8,139.5,38.3,101.2,Average,6.1,148,Amazon Prime Video,2022,6,June,Friday
+302,Vikram Vedha,29-09-2022,318,Saif Ali Khan,501,Bollywood,621,150.0,20.67,135.44,42.34,93.1,Flop,7.1,160,ZEE5,2022,9,September,Thursday
+313,Samrat Prithviraj,03-06-2022,326,Akshay Kumar,501,Bollywood,696,220.0,17.5,90.55,10.0,80.55,Disaster,5.6,135,Amazon Prime Video,2022,6,June,Friday
+319,Bachchhan Paandey,18-03-2022,328,Akshay Kumar,501,Bollywood,649,165.0,13.25,74.2,14.0,60.2,Disaster,5.0,147,Amazon Prime Video,2022,3,March,Friday
+326,Shamshera,22-07-2022,331,Ranbir Kapoor,501,Bollywood,698,150.0,15.15,60.75,13.0,47.75,Disaster,4.7,178,Amazon Prime Video,2022,7,July,Friday
+337,Thank God,25-10-2022,334,Sidharth Malhotra,501,Bollywood,712,70.0,12.55,48.99,6.5,42.49,Disaster,5.6,121,Amazon Prime Video,2022,10,October,Tuesday
+342,Doctor G,14-10-2022,338,Ayushmann Khurrana,501,Bollywood,620,25.0,5.07,44.1,11.0,33.1,Average,6.6,124,Netflix,2022,10,October,Friday
+354,Jersey,22-04-2022,348,Shahid Kapoor,501,Bollywood,718,60.0,4.7,30.75,5.75,25.0,Disaster,7.3,170,Netflix,2022,4,April,Friday
+357,Badhaai Do,11-02-2022,351,Rajkummar Rao,501,Bollywood,720,25.0,1.95,28.15,3.0,25.15,Flop,7.0,147,Netflix,2022,2,February,Friday
+360,Jhund,04-03-2022,353,Amitabh Bachchan,501,Bollywood,682,20.0,2.75,23.0,5.7,17.3,Flop,7.4,176,ZEE5,2022,3,March,Friday
+362,Attack,01-04-2022,355,Jacqueline Fernandez,501,Bollywood,622,55.0,5.15,22.0,3.2,18.8,Disaster,6.8,121,ZEE5,2022,4,April,Friday
+366,Chup,23-09-2022,358,Dulquer Salmaan,501,Bollywood,722,20.0,4.0,20.0,6.0,14.0,Flop,7.5,135,ZEE5,2022,9,September,Friday

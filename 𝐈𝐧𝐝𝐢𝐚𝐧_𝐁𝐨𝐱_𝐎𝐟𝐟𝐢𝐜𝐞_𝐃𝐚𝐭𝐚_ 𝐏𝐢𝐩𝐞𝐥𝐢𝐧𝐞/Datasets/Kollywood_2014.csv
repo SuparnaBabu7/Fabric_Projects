@@ -1,0 +1,9 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+13,Kaththi,22-10-2014,107,Joseph Vijay,503,Kollywood,606,70.0,25.0,117.5,29.0,88.5,Blockbuster,8.1,166,Amazon Prime Video,2014,10,October,Wednesday
+15,Veeram,10-01-2014,114,Ajith Kumar,503,Kollywood,613,45.0,9.0,100.0,19.5,80.5,Blockbuster,6.5,161,Amazon Prime Video,2014,1,January,Friday
+16,Velaiilla Pattadhari,18-07-2014,115,Dhanush,503,Kollywood,610,20.0,4.3,92.0,18.0,74.0,Blockbuster,7.9,133,Amazon Prime Video,2014,7,July,Friday
+20,Jilla,09-01-2014,119,Mohanlal,503,Kollywood,605,50.0,12.0,80.0,11.0,69.0,Below Average,6.2,185,Amazon Prime Video,2014,1,January,Thursday
+19,Anjaan,15-08-2014,118,Suriya,503,Kollywood,607,65.0,11.0,80.4,18.1,62.3,Below Average,5.3,166,Amazon Prime Video,2014,8,August,Friday
+28,Maan Karate,28-03-2014,127,Sivakarthikeyan,503,Kollywood,620,15.0,4.1,42.0,10.0,32.0,Super Hit,5.2,153,Amazon Prime Video,2014,3,March,Friday
+10,Lingaa,12-12-2014,110,Rajinikanth,503,Kollywood,610,100.0,39.0,154.0,30.0,124.0,Below Average,5.6,174,Amazon Prime Video,2014,12,December,Friday
+17,Kochadaiiyaan,22-05-2014,116,Rajinikanth,503,Kollywood,614,125.0,18.0,90.0,23.0,67.0,Disaster,6.2,118,Amazon Prime Video,2014,5,May,Thursday

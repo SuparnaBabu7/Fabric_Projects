@@ -1,0 +1,19 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+468,Leo,19-10-2023,296,Joseph Vijay,503,Kollywood,621,250.0,142.7,605.9,204.0,401.9,Blockbuster,7.2,164,Netflix,2023,10,October,Thursday
+469,Jailer,10-08-2023,181,Rajinikanth,503,Kollywood,603,200.0,96.6,604.5,196.0,408.5,Blockbuster,7.1,168,Amazon Prime Video,2023,8,August,Thursday
+494,Mark Antony,15-09-2023,414,Vishal,503,Kollywood,738,35.0,11.45,104.3,19.0,85.3,Blockbuster,6.6,150,Amazon Prime Video,2023,9,September,Friday
+509,Viduthalai Part 1,31-03-2023,157,Soori,503,Kollywood,621,25.0,5.0,53.0,9.25,43.75,Blockbuster,8.3,150,ZEE5,2023,3,March,Friday
+516,Por Thozhil,16-06-2023,427,R. Sarathkumar,503,Kollywood,607,8.0,1.6,43.5,5.3,38.2,Blockbuster,8.0,147,SonyLIV,2023,6,June,Friday
+539,Dada,10-02-2023,448,Kavin,503,Kollywood,741,4.0,0.85,20.9,1.5,19.4,Blockbuster,8.1,133,Amazon Prime Video,2023,2,February,Friday
+476,Varisu,11-01-2023,125,Joseph Vijay,503,Kollywood,613,200.0,47.2,297.55,89.0,208.55,Hit,6.0,169,Amazon Prime Video,2023,1,January,Wednesday
+490,Vaathi,17-03-2023,169,Dhanush,503,Kollywood,606,40.0,14.4,116.2,25.0,91.2,Blockbuster,7.3,139,Amazon Prime Video,2023,3,March,Friday
+474,Ponniyin Selvan: Part Two,28-04-2023,310,Vikram,503,Kollywood,698,250.0,62.45,344.63,130.0,214.63,Hit,7.3,164,Amazon Prime Video,2023,4,April,Friday
+480,Thunivu,11-01-2023,225,Ajith Kumar,503,Kollywood,621,120.0,39.6,200.0,55.9,144.1,Hit,6.1,146,Netflix,2023,1,January,Wednesday
+501,Maaveeran,14-07-2023,419,Sivakarthikeyan,503,Kollywood,740,50.0,11.7,78.4,15.5,62.9,Hit,7.4,163,Amazon Prime Video,2023,7,July,Friday
+504,Maamannan,29-06-2023,303,Vadivelu,503,Kollywood,627,30.0,11.0,73.8,12.8,61.0,Super Hit,6.7,157,Netflix,2023,6,June,Thursday
+507,Jigarthanda DoubleX,12-11-2023,373,Raghava Lawrence,503,Kollywood,610,50.0,4.15,64.55,12.3,52.25,Average,8.0,172,Netflix,2023,11,November,Sunday
+508,Chandramukhi 2,15-09-2023,423,Raghava Lawrence,503,Kollywood,675,65.0,11.7,54.1,8.0,46.1,Disaster,2.6,172,Netflix,2023,9,September,Friday
+517,Pichaikkaran 2,19-05-2023,428,Vijay Antony,503,Kollywood,744,25.0,8.5,43.5,1.3,42.2,Hit,5.7,148,Disney+ Hotstar,2023,5,May,Friday
+521,DD Returns,28-07-2023,432,Santhanam,503,Kollywood,628,15.0,2.7,38.5,0.0,38.5,Super Hit,6.2,124,ZEE5,2023,7,July,Friday
+523,Pathu Thala,30-03-2023,434,Silambarasan Rajendar,503,Kollywood,605,35.0,7.2,37.3,4.5,32.8,Flop,6.7,151,Amazon Prime Video,2023,3,March,Thursday
+528,Japan,10-11-2023,439,Karthi,503,Kollywood,693,70.0,6.5,26.55,5.25,21.3,Disaster,3.2,156,Netflix,2023,11,November,Friday

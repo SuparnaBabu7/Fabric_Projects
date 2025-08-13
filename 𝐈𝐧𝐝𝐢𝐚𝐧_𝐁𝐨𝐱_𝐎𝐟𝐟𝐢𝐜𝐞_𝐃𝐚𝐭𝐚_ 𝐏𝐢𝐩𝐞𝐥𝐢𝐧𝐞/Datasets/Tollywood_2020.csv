@@ -1,0 +1,7 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+368,Ala Vaikunthapurramuloo,10-01-2020,143,Allu Arjun,505,Tollywood,610,100.0,57.0,269.35,36.0,233.35,Blockbuster,7.3,163,Netflix,2020,1,January,Friday
+370,Sarileru Neekevvaru,10-01-2020,230,Mahesh Babu,505,Tollywood,610,100.0,65.0,221.7,25.0,196.7,Super Hit,5.8,169,Amazon Prime Video,2020,1,January,Friday
+377,Bheeshma,21-02-2020,189,Nithiin,505,Tollywood,615,25.0,13.0,52.0,10.0,42.0,Super Hit,6.6,150,Netflix,2020,2,February,Friday
+120,Jai Lava Kusa,03-03-2020,208,N.T. Rama Rao Jr.,505,Tollywood,627,60.0,46.0,130.0,10.2,119.8,Above Average,6.8,150,Amazon Prime Video,2020,3,March,Tuesday
+388,Entha Manchivaadavuraa,15-01-2020,185,Nandamuri Kalyan Ram,505,Tollywood,606,15.0,4.2,25.0,2.9,22.1,Hit,5.2,152,Amazon Prime Video,2020,1,January,Wednesday
+389,World Famous Lover,13-02-2020,369,Vijay Deverakonda,505,Tollywood,608,35.0,7.6,20.0,3.1,16.9,Disaster,5.0,154,Netflix,2020,2,February,Thursday

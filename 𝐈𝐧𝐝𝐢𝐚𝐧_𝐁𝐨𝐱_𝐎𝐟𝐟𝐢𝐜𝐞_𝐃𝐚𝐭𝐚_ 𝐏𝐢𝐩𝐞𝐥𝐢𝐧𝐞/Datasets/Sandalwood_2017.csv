@@ -1,0 +1,5 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+158,Hebbuli,22-04-2017,236,V. Ravichandran,507,Sandalwood,627,20.0,6.5,45.0,0.0,45.0,Blockbuster,6.6,141,ZEE5,2017,4,April,Saturday
+135,Raajakumara,24-03-2017,126,Puneeth Rajkumar,507,Sandalwood,606,20.0,7.3,75.0,0.2,74.8,All Time Blockbuster,7.9,148,Amazon Prime Video,2017,3,March,Friday
+159,Anjaniputra,21-12-2017,237,Puneeth Rajkumar,507,Sandalwood,616,20.0,5.0,45.0,0.0,45.0,Super Hit,5.9,149,Amazon Prime Video,2017,12,December,Thursday
+174,Chakravarthy,14-04-2017,249,Darshan Thoogudeep,507,Sandalwood,640,20.0,5.0,30.0,0.0,30.0,Above Average,6.3,156,Amazon Prime Video,2017,4,April,Friday

@@ -1,0 +1,10 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+225,Janatha Garage,01-09-2016,140,N.T. Rama Rao Jr.,503,Kollywood,605,50.0,45.0,140.0,15.0,125.0,Blockbuster,7.2,162,Disney+ Hotstar,2016,9,September,Thursday
+241,Remo,07-10-2016,285,Sivakarthikeyan,503,Kollywood,630,25.0,8.0,75.0,11.5,63.5,Blockbuster,6.0,151,Amazon Prime Video,2016,10,October,Friday
+250,Pichaikkaran,04-03-2016,293,Vijay Antony,503,Kollywood,627,10.0,1.8,43.0,10.0,33.0,Blockbuster,7.6,130,Amazon Prime Video,2016,3,March,Friday
+215,Kabali,22-07-2016,147,Rajinikanth,503,Kollywood,605,90.0,90.0,309.0,104.0,205.0,Super Hit,6.1,153,Amazon Prime Video,2016,7,July,Friday
+232,24,06-05-2016,122,Suriya,503,Kollywood,686,70.0,21.0,102.0,28.8,73.2,Hit,7.8,164,Amazon Prime Video,2016,5,May,Friday
+254,Aranmanai 2,29-01-2016,186,Siddharth,503,Kollywood,628,15.0,2.8,31.0,10.5,20.5,Average,4.5,136,Amazon Prime Video,2016,1,January,Friday
+236,Iru Mugan,09-09-2016,190,Vikram,503,Kollywood,622,40.0,25.0,89.0,14.0,75.0,Hit,6.3,154,Amazon Prime Video,2016,9,September,Friday
+222,Theri,15-04-2016,201,Joseph Vijay,503,Kollywood,607,75.0,28.0,154.5,44.3,110.2,Super Hit,7.3,157,Amazon Prime Video,2016,4,April,Friday
+242,Kaashmora,28-10-2016,286,Karthi,503,Kollywood,687,65.0,12.5,61.0,4.0,57.0,Disaster,5.6,163,Amazon Prime Video,2016,10,October,Friday

@@ -1,0 +1,13 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+315,Bheeshmaparvam,03-03-2022,179,Mammootty,509,Mollywood,621,18.0,12.2,88.2,36.5,51.7,Blockbuster,7.6,144,Disney+ Hotstar,2022,3,March,Thursday
+333,Hridayam,28-01-2022,332,Pranav Mohanlal,509,Mollywood,711,7.0,5.4,53.1,22.5,30.6,Blockbuster,8.1,172,Disney+ Hotstar,2022,1,January,Friday
+335,Malikappuram,30-12-2022,333,Unni Mukundan,509,Mollywood,698,4.0,0.52,52.4,10.5,41.9,Blockbuster,7.4,121,Disney+ Hotstar,2022,12,December,Friday
+346,Thallumaala,12-08-2022,341,Tovino Thomas,509,Mollywood,610,15.0,7.5,40.0,13.35,26.65,Blockbuster,7.0,148,Netflix,2022,8,August,Friday
+351,Nna Thaan Case Kodu,11-08-2022,346,Kunchacko Boban,509,Mollywood,642,7.0,1.4,31.94,8.0,23.94,Blockbuster,8.0,138,Disney+ Hotstar,2022,8,August,Thursday
+338,Jana Gana Mana,28-04-2022,335,Prithviraj Sukumaran,509,Mollywood,654,15.0,2.0,48.8,18.7,30.1,Blockbuster,8.3,162,Netflix,2022,4,April,Thursday
+341,Kaduva,07-07-2022,337,Prithviraj Sukumaran,509,Mollywood,627,18.0,5.56,44.93,20.7,24.23,Super Hit,6.1,155,Amazon Prime Video,2022,7,July,Thursday
+343,Jaya Jaya Jaya Jaya Hey,28-10-2022,339,Darshana Rajendran,509,Mollywood,707,5.0,1.2,43.2,12.1,31.1,Blockbuster,7.7,145,Disney+ Hotstar,2022,10,October,Friday
+347,Rorschach,14-10-2022,342,Mammootty,509,Mollywood,714,18.0,5.2,39.13,16.71,22.42,Super Hit,6.9,150,Disney+ Hotstar,2022,10,October,Friday
+353,CBI 5,01-05-2022,347,Mammootty,509,Mollywood,717,15.0,4.45,31.3,15.0,16.3,Hit,5.6,162,Netflix,2022,5,May,Sunday
+356,Paappan,29-07-2022,350,Suresh Gopi,509,Mollywood,700,10.0,2.55,28.2,8.6,19.6,Super Hit,6.7,169,ZEE5,2022,7,July,Friday
+365,Aaraattu,18-02-2022,357,Mohanlal,509,Mollywood,606,18.0,6.95,20.15,7.0,13.15,Flop,3.8,167,Amazon Prime Video,2022,2,February,Friday

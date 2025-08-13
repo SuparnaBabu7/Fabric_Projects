@@ -1,0 +1,5 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+256,Sooryavanshi,05-11-2021,105,Akshay Kumar,501,Bollywood,621,180.0,39.5,293.0,62.2,230.8,Hit,5.9,145,Netflix,2021,11,November,Friday
+258,83,23-12-2021,297,Ranveer Singh,501,Bollywood,692,200.0,27.6,193.0,64.0,129.0,Flop,7.5,162,Disney+ Hotstar,2021,12,December,Thursday
+270,Antim: The Final Truth,25-11-2021,302,Salman Khan,501,Bollywood,605,50.0,8.9,58.5,11.7,46.8,Below Average,6.2,138,ZEE5,2021,11,November,Thursday
+272,Bellbottom,19-08-2021,304,Akshay Kumar,501,Bollywood,618,160.0,2.75,53.7,14.3,39.4,Disaster,6.1,123,Amazon Prime Video,2021,8,August,Thursday

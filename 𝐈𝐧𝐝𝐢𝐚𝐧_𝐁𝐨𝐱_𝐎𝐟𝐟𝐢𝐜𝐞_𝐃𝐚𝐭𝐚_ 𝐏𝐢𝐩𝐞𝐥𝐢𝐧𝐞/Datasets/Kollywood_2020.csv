@@ -1,0 +1,4 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+369,Darbar,10-01-2020,107,Rajinikanth,503,Kollywood,607,200.0,53.0,247.8,74.0,173.8,Below Average,5.9,159,Amazon Prime Video,2020,1,January,Friday
+175,Motta Shiva Ketta Shiva,01-03-2020,250,Raghava Lawrence,503,Kollywood,637,12.0,3.0,28.6,3.0,25.6,Below Average,3.6,151,Amazon Prime Video,2020,3,March,Sunday
+380,Pattas,17-01-2020,362,Dhanush,503,Kollywood,606,40.0,8.0,43.0,6.0,37.0,Below Average,5.6,141,Amazon Prime Video,2020,1,January,Friday

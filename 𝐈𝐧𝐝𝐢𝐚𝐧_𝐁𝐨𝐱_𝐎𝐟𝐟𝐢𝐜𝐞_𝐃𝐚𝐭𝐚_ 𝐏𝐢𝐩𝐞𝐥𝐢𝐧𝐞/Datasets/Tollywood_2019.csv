@@ -1,0 +1,20 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+411,F2: Fun and Frustration,12-01-2019,230,Tamannaah Bhatia,505,Tollywood,631,30.0,12.5,137.6,20.0,117.6,Blockbuster,6.1,148,Amazon Prime Video,2019,1,January,Saturday
+421,iSmart Shankar,18-07-2019,382,Ram Pothineni,505,Tollywood,622,20.0,13.0,80.0,4.0,76.0,Blockbuster,5.4,140,ZEE5,2019,7,July,Thursday
+428,Prati Roju Pandaage,19-12-2019,180,Sai Dharam Tej,505,Tollywood,643,25.0,7.1,53.5,4.4,49.1,Blockbuster,6.3,146,Amazon Prime Video,2019,12,December,Thursday
+442,Oh! Baby,05-07-2019,391,Samantha Ruth Prabhu,505,Tollywood,617,15.0,4.8,33.9,7.4,26.5,Blockbuster,7.3,161,Netflix,2019,7,July,Friday
+391,Saaho,30-08-2019,370,Prabhas,505,Tollywood,618,50.0,30.0,451.0,92.0,359.0,Below Average,5.1,170,Amazon Prime Video,2019,8,August,Friday
+398,Sye Raa Narasimha Reddy,27-09-2019,113,Chiranjeevi,505,Tollywood,685,25.0,85.0,246.6,30.0,216.6,Average,7.2,167,Amazon Prime Video,2019,9,September,Friday
+406,Maharshi,10-05-2019,125,Mahesh Babu,505,Tollywood,606,90.0,48.0,176.0,22.0,154.0,Hit,7.2,176,Amazon Prime Video,2019,5,May,Friday
+417,Vinaya Vidheya Rama,11-01-2019,241,Ram Charan,505,Tollywood,606,75.0,42.0,97.9,3.9,94.0,Flop,3.3,146,Amazon Prime Video,2019,1,January,Friday
+427,Majili,05-04-2019,229,Naga Chaitanya Akkineni,505,Tollywood,636,20.0,10.0,60.0,10.0,50.0,Super Hit,7.3,154,Amazon Prime Video,2019,4,April,Friday
+432,Jersey,18-04-2019,348,Nani,505,Tollywood,718,20.0,8.2,51.7,12.0,39.7,Super Hit,8.5,157,Netflix,2019,4,April,Thursday
+434,Venky Mama,12-12-2019,208,Venkatesh Daggubati,505,Tollywood,610,35.0,12.2,47.6,5.3,42.3,Average,5.4,149,Amazon Prime Video,2019,12,December,Thursday
+437,Gang Leader,12-09-2019,122,Nani,505,Tollywood,691,25.0,11.2,39.4,5.4,34.0,Average,7.6,155,Amazon Prime Video,2019,9,September,Thursday
+438,Gaddalakonda Ganesh,20-09-2019,210,Varun Tej,505,Tollywood,603,30.0,7.2,38.0,5.0,33.0,Average,6.3,130,Disney+ Hotstar,2019,9,September,Friday
+440,Dear Comrade,26-07-2019,389,Vijay Deverakonda,505,Tollywood,680,35.0,14.0,37.0,6.0,31.0,Flop,7.3,169,Amazon Prime Video,2019,7,July,Friday
+445,NTR: Kathanayakudu,08-01-2019,219,Nandamuri Balakrishna,505,Tollywood,633,50.0,12.6,31.5,7.0,24.5,Disaster,5.8,169,Amazon Prime Video,2019,1,January,Tuesday
+451,Chitralahari,12-04-2019,246,Sai Dharam Tej,505,Tollywood,608,15.0,6.6,27.1,2.0,25.1,Hit,7.1,131,Amazon Prime Video,2019,4,April,Friday
+454,Rakshasudu,02-08-2019,352,Sai Srinivas Bellamkonda,505,Tollywood,607,10.0,3.9,24.2,3.0,21.2,Hit,7.9,122,ZEE5,2019,8,August,Friday
+460,Mr. Majnu,24-01-2019,169,Akhil Akkineni,505,Tollywood,638,30.0,7.5,21.0,1.6,19.4,Disaster,6.1,145,ZEE5,2019,1,January,Thursday
+462,118,01-03-2019,405,Nandamuri Kalyan Ram,505,Tollywood,714,12.0,2.8,20.8,0.0,20.8,Average,6.4,120,Disney+ Hotstar,2019,3,March,Friday

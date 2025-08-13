@@ -1,0 +1,6 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+278,Yuvarathnaa,01-04-2021,126,Puneeth Rajkumar,507,Sandalwood,606,25.0,10.05,38.7,0.7,38.0,Below Average,6.3,161,Amazon Prime Video,2021,4,April,Thursday
+266,Roberrt,11-03-2021,300,Darshan Thoogudeep,507,Sandalwood,695,30.0,16.9,69.5,0.0,69.5,Super Hit,5.9,166,Amazon Prime Video,2021,3,March,Thursday
+274,Pogaru,19-02-2021,305,Dhruva Sarja,507,Sandalwood,637,25.0,10.25,45.1,0.0,45.1,Average,3.6,160,Amazon Prime Video,2021,2,February,Friday
+277,Kotigobba 3,14-10-2021,306,Sudeep,507,Sandalwood,619,25.0,6.9,39.1,0.0,39.1,Below Average,5.5,140,Amazon Prime Video,2021,10,October,Thursday
+285,Salaga,20-08-2021,309,Duniya Vijay,507,Sandalwood,607,10.0,5.5,22.0,0.0,22.0,Hit,6.9,124,Amazon Prime Video,2021,8,August,Friday

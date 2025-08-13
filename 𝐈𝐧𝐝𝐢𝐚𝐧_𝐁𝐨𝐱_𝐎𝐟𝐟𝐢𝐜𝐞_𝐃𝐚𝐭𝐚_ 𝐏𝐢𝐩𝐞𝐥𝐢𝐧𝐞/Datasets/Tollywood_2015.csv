@@ -1,0 +1,9 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+190,Srimanthudu,07-08-2015,140,Mahesh Babu,505,Tollywood,606,70.0,38.0,153.0,20.0,133.0,Blockbuster,7.5,158,ZEE5,2015,8,August,Friday
+208,Bhale Bhale Magadivoy,04-09-2015,180,Nani,505,Tollywood,630,10.0,6.5,50.0,10.0,40.0,Blockbuster,7.7,137,Amazon Prime Video,2015,9,September,Friday
+202,Bruce Lee: The Fighter,16-10-2015,123,Ram Charan,505,Tollywood,612,60.0,22.0,68.5,11.5,57.0,Flop,5.5,151,Amazon Prime Video,2015,10,October,Friday
+197,S/O Satyamurthy,09-04-2015,143,Allu Arjun,505,Tollywood,606,45.0,21.0,93.0,21.0,72.0,Hit,7.1,162,Amazon Prime Video,2015,4,April,Thursday
+182,Bãhubali: The Beginning,10-07-2015,195,Prabhas,505,Tollywood,606,180.0,73.0,650.0,134.0,516.0,All Time Blockbuster,8.0,159,Netflix,2015,7,July,Friday
+201,Temper,13-02-2015,242,N.T. Rama Rao Jr.,505,Tollywood,605,40.0,20.0,74.0,14.0,60.0,Super Hit,7.4,147,Amazon Prime Video,2015,2,February,Friday
+198,Rudhramadevi,18-10-2015,261,Anushka Shetty,505,Tollywood,674,80.0,11.0,91.0,5.0,86.0,Below Average,5.6,157,Amazon Prime Video,2015,10,October,Sunday
+210,Kick 2,21-08-2015,268,Ravi Teja,505,Tollywood,615,30.0,10.0,36.6,2.1,34.5,Flop,5.0,170,Amazon Prime Video,2015,8,August,Friday

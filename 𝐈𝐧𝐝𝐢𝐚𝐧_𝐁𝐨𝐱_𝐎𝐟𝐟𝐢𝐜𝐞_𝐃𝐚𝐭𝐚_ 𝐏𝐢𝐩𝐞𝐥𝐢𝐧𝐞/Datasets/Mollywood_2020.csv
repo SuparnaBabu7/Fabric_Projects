@@ -1,0 +1,7 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+378,Anjaam Pathiraa,31-01-2020,244,Kunchacko Boban,509,Mollywood,717,5.0,1.5,50.0,15.0,35.0,Blockbuster,7.9,144,Sun NXT,2020,1,January,Friday
+177,Take Off,01-01-2020,251,Parvathy Thiruvothu,509,Mollywood,627,8.0,1.4,27.1,6.1,21.0,Blockbuster,8.1,139,Amazon Prime Video,2020,1,January,Wednesday
+381,Ayyappanum Koshiyum,14-02-2020,363,Biju Menon,509,Mollywood,627,10.0,2.5,43.0,13.0,30.0,Blockbuster,8.0,177,Amazon Prime Video,2020,2,February,Friday
+382,Shylock,23-01-2020,364,Mammootty,509,Mollywood,627,15.0,4.0,34.0,13.0,21.0,Hit,5.1,130,Amazon Prime Video,2020,1,January,Thursday
+386,Varane Avashyamund,07-02-2020,367,Shobana,509,Mollywood,608,10.0,1.5,31.5,6.0,25.5,Super Hit,6.9,145,Netflix,2020,2,February,Friday
+387,Trance,21-02-2020,368,Fahadh Faasil,509,Mollywood,664,35.0,3.6,25.2,6.0,19.2,Disaster,7.3,170,Amazon Prime Video,2020,2,February,Friday

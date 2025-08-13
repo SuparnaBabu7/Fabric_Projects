@@ -1,0 +1,23 @@
+FilmID,Title,Release_Date,DirectorID,Lead_Actor_Actress,LanguageID,Industry,GenreID,Budget,First_Day_Collection_Worldwide,Worldwide_Collection_in_Crores,Overseas_Collection,India_Gross_Collection,Verdict,IMDb_Rating,Runtime_mins,OTT_Platform,Year,Month,Month_Name,Week_Name
+62,Kadaikutty Singam,13-07-2018,155,Karthi,503,Kollywood,606,25.0,7.2,70.1,7.1,63.0,Blockbuster,6.8,149,Disney+ Hotstar,2018,7,July,Friday
+65,Irumbu Thirai,11-05-2018,158,Vishal,503,Kollywood,607,20.0,2.3,61.7,14.7,47.0,Blockbuster,7.6,160,ZEE5,2018,5,May,Friday
+80,Imaikkaa Nodigal,14-09-2018,172,Nayanthara,503,Kollywood,621,10.0,2.0,40.0,10.0,30.0,Blockbuster,7.3,170,Amazon Prime Video,2018,9,September,Friday
+43,Badhaai ho,19-10-2018,138,Ayushmann Khurrana,503,Kollywood,620,30.0,8.0,220.0,44.0,176.0,Blockbuster,7.9,124,Disney+ Hotstar,2018,10,October,Friday
+72,96,05-10-2018,165,Vijay Sethupathi,503,Kollywood,636,15.0,7.6,50.0,13.5,36.5,Blockbuster,8.5,158,Amazon Prime Video,2018,10,October,Friday
+84,Ratsasan,05-10-2018,176,Vishnu Vishal,503,Kollywood,626,10.0,0.5,36.8,6.9,29.9,Blockbuster,8.3,146,Amazon Prime Video,2018,10,October,Friday
+71,Thamizh Padam 2,13-07-2018,164,Jiiva,503,Kollywood,631,10.0,4.2,51.0,2.8,48.2,Blockbuster,6.5,143,Amazon Prime Video,2018,7,July,Friday
+89,Kolamavu Kokila,17-08-2018,181,Nayanthara,503,Kollywood,642,10.0,4.0,31.3,2.0,29.3,Blockbuster,7.3,140,Disney+ Hotstar,2018,8,August,Friday
+40,Sarkar,07-11-2018,107,Joseph Vijay,503,Kollywood,606,135.0,71.0,252.0,70.0,182.0,Above Average,6.7,163,Amazon Prime Video,2018,11,November,Wednesday
+53,Kaala,07-06-2018,147,Rajinikanth,503,Kollywood,606,135.0,40.0,151.7,39.5,112.2,Below Average,6.5,162,Amazon Prime Video,2018,6,June,Thursday
+63,Seema Raja,14-09-2018,156,Sivakarthikeyan,503,Kollywood,606,40.0,13.6,65.6,13.0,52.6,Below Average,4.3,158,Amazon Prime Video,2018,9,September,Friday
+69,Sandakozhi 2,19-10-2018,162,Vishal,503,Kollywood,606,30.0,5.4,51.9,7.9,44.0,Average,5.0,155,Amazon Prime Video,2018,10,October,Friday
+58,Chekka Chivantha Vaanam,28-09-2018,151,Arvind Swamy,503,Kollywood,621,35.0,12.0,91.2,30.7,60.5,Super Hit,7.2,146,Amazon Prime Video,2018,9,September,Friday
+64,Vada Chennai,17-10-2018,157,Dhanush,503,Kollywood,621,40.0,10.9,63.0,8.0,55.0,Above Average,8.4,164,Disney+ Hotstar,2018,10,October,Wednesday
+76,Maari 2,21-12-2018,168,Dhanush,503,Kollywood,612,35.0,7.5,47.0,16.5,30.5,Below Average,5.6,143,Disney+ Hotstar,2018,12,December,Friday
+75,Vishwaroopam 2,10-08-2018,167,Kamal Haasan,503,Kollywood,618,100.0,7.0,47.7,10.7,37.0,Disaster,5.8,145,Amazon Prime Video,2018,8,August,Friday
+82,Sketch,12-01-2018,174,Vikram,503,Kollywood,618,30.0,10.0,40.0,4.0,36.0,Below Average,5.6,137,Amazon Prime Video,2018,1,January,Friday
+33,2,29-11-2018,132,Rajinikanth,503,Kollywood,622,540.0,105.0,701.0,172.0,529.0,Above Average,6.0,148,Amazon Prime Video,2018,11,November,Thursday
+59,Thaanaa Serndha Koottam,12-01-2018,152,Suriya,503,Kollywood,632,60.0,16.2,90.2,22.0,68.2,Below Average,6.3,138,Amazon Prime Video,2018,1,January,Friday
+74,Saamy²,21-09-2018,166,Vikram,503,Kollywood,637,50.0,12.0,49.0,9.0,40.0,Disaster,4.5,156,Amazon Prime Video,2018,9,September,Friday
+79,Tik Tik Tik,22-06-2018,171,Jayam Ravi,503,Kollywood,639,20.0,3.0,41.0,15.0,26.0,Hit,5.8,130,Amazon Prime Video,2018,6,June,Friday
+94,Kalakalapu 2,09-02-2018,186,Jiiva,503,Kollywood,620,10.0,2.5,25.0,2.0,23.0,Hit,5.2,154,Amazon Prime Video,2018,2,February,Friday
