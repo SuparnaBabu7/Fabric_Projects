@@ -123,10 +123,12 @@ The solution follows the **Medallion Architecture**:
 
 ## 🔗 References
 - **YouTube Walkthrough**: [https://www.youtube.com/watch?v=qG65DUcSjws](https://www.youtube.com/watch?v=qG65DUcSjws)  
-- **GitHub Repo**: *Add your repo link here*  
+
+## 📢 Stay Connected
+For more projects, follow **me** on:
+- [LinkedIn](https://www.linkedin.com/in/inturi-suparna-babu-312b59270/)
 
 ---
 
-## 📌 Tags
 `#MicrosoftFabric` `#DataEngineering` `#PowerBI` `#MedallionArchitecture` `#ECommerceAnalytics` `#DataPipelines` `#FabricCommunity`
 
