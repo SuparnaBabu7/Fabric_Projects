@@ -83,5 +83,23 @@ The objective of this project is to design and implement a **data pipeline** tha
 
 ---
 
-## 📂 Repository Structure
+## ✨ Key Learnings
+- How to orchestrate end-to-end data pipelines in Microsoft Fabric.
+- Transforming and storing data as **Delta tables** in Lakehouse.
+- Automating **Fact & Dimension loading** using Stored Procedures.
+- Creating **Semantic Models** for Power BI reporting.
+
+---
+
+🔗 **Project done by**: 👨‍💼 [Inturi Suparna Babu](https://www.linkedin.com/in/inturi-suparna-babu-312b59270/)
+
+## 🙌 Acknowledgements
+
+This project is inspired by real-world data challenges in the e-commerce domain and leverages the full capabilities of **Microsoft Fabric’s Lakehouse architecture** and **Power BI analytics**.
+
+---
+
+⭐ *If you found this helpful, please consider giving the repo a star and following me on LinkedIn for more data engineering content!*
+
+
 
