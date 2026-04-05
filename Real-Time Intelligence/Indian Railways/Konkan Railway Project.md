@@ -119,7 +119,7 @@ Real-Time Intelligence/
 👨‍💻 **INTURI SUPARNA BABU**  
 - Microsoft Fabric Community Super User  
 - Data Engineering Specialist  
-- Active Blogger & Contributor in Fabric Community :contentReference[oaicite:0]{index=0}  
+- Active Blogger & Contributor in Fabric Community 
 
 🔗 **LinkedIn Profile:**  
 https://www.linkedin.com/in/inturi-suparna-babu-312b59270/
