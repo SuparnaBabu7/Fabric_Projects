@@ -69,3 +69,82 @@ The use case is based on **Konkan Railway train running data**.
 ---
 
 ## 📂 Project Structure
+Real-Time Intelligence/
+└── Indian Railways/
+├── railway_rti_archertecture.png
+├── KQL Queries/
+├── Dashboard Assets/
+└── Documentation/
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Microsoft Fabric (Trial or Capacity)
+- Basic knowledge of KQL
+
+---
+
+### Setup Steps
+
+1. Create **Eventhouse**
+2. Create **Eventstream**
+3. Connect to API using HTTP connector
+4. Stream data into Eventhouse
+5. Transform data using KQL
+6. Build Real-Time Dashboard
+
+---
+
+## 📌 Sample Use Cases
+
+- Railway operations monitoring  
+- Real-time analytics learning  
+- Streaming data architecture demos  
+- Dashboarding with live data  
+
+---
+
+## 📥 Resources
+
+- API Source: Konkan Railway Public API  
+- KQL Scripts: (Add your files here)
+
+---
+
+## 🙌 About Me
+
+👨‍💻 **INTURI SUPARNA BABU**  
+- Microsoft Fabric Community Super User  
+- Data Engineering Specialist  
+- Active Blogger & Contributor in Fabric Community :contentReference[oaicite:0]{index=0}  
+
+🔗 **LinkedIn Profile:**  
+https://www.linkedin.com/in/inturi-suparna-babu-312b59270/
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star this repository  
+- 🍴 Fork and explore  
+- 🧑‍💻 Share your feedback  
+
+---
+
+## 📢 Connect & Collaborate
+
+I actively share content on:
+- Microsoft Fabric  
+- Real-Time Intelligence  
+- Data Engineering  
+
+Let’s connect, learn, and grow together 🚀
+
+---
+
+**Happy Learning! 🚀**
