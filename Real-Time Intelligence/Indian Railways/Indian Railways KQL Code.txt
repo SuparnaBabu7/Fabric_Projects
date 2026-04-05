@@ -1,0 +1,166 @@
+--KQL Cleaning Quries
+
+kr_trains_data_tb
+| mv-expand kind=array trains // 1. Turns the object into a list of [Key, Value]
+| extend TrainNumber = tostring(trains.[0]) // 2. Extracts the train number key
+| extend TrainDetails = trains.[1] // 3. Extracts the data object for that train
+| evaluate bag_unpack(TrainDetails) // 4. Automatically creates columns from the JSON
+| evaluate bag_unpack(delayedTime, "delay_") // 5. Flattens the nested delay object
+| evaluate bag_unpack(statusTime, "status_") // 6. Flattens the nested statusTime object
+| project-away trains // 7. Removes only the original nested column to avoid errors
+
+.create table CleanedTrains_TB (
+    TrainNumber: string,
+    direction: string,
+    name: string,
+    station: string,
+    status: string,
+    type: string,
+    delay_hours: int,
+    delay_minutes: int,
+    status_hours: int,
+    status_minutes: int,
+    lastFetchedAt: datetime,
+    lastUpdateAtUpstream: datetime
+)
+
+.create-or-alter function CleanTrainData() {
+    kr_trains_data_tb
+    | mv-expand kind=array trains
+    | extend TrainNumber = tostring(trains.[0])
+    | extend TrainDetails = trains.[1]
+    | evaluate bag_unpack(TrainDetails)
+    | evaluate bag_unpack(delayedTime, "delay_")
+    | evaluate bag_unpack(statusTime, "status_")
+    | project TrainNumber, direction, name, station, status, type, delay_hours, delay_minutes, status_hours, status_minutes, lastFetchedAt, lastUpdateAtUpstream
+}
+
+
+.append CleanedTrains_TB <|
+kr_trains_data_tb
+| mv-expand kind=array trains
+| extend TrainNumber = tostring(trains.[0])
+| extend TrainDetails = trains.[1]
+| evaluate bag_unpack(TrainDetails)
+| evaluate bag_unpack(delayedTime, "delay_")
+| evaluate bag_unpack(statusTime, "status_")
+| project 
+    TrainNumber = tostring(TrainNumber),
+    direction = tostring(direction),
+    name = tostring(name),
+    station = tostring(station),
+    status = tostring(status),
+    type = tostring(type),
+    delay_hours = toint(delay_hours),
+    delay_minutes = toint(delay_minutes),
+    status_hours = toint(status_hours),
+    status_minutes = toint(status_minutes),
+    lastFetchedAt = todatetime(lastFetchedAt),
+    lastUpdateAtUpstream = todatetime(lastUpdateAtUpstream)
+
+    
+.set-or-replace StationCoordinates <|
+datatable(station:string, lat:real, lon:real) [
+    "roha", 18.4389, 73.1167, "kolad", 18.3312, 73.1812, "indapur", 18.2911, 73.2355, 
+    "mangaon", 18.2505, 73.2842, "goregaon road", 18.1567, 73.3122, "veer", 18.0667, 73.3833, 
+    "sape vamne", 17.9611, 73.3811, "karanjadi", 17.9133, 73.3912, "vinhere", 17.8244, 73.3855,
+    "diwankhavati", 17.7611, 73.3911, "khed", 17.7122, 73.4011, "kalambani", 17.6212, 73.4411,
+    "chiplun", 17.5190, 73.5244, "kamthe", 17.4367, 73.5412, "sawarda", 17.3911, 73.6122,
+    "araivali road", 17.3112, 73.6411, "sangameshwar road", 17.1882, 73.5117, "ukshi", 17.1111, 73.4811,
+    "bhoke", 17.0611, 73.4111, "ratnagiri", 16.9790, 73.3326, "nivsar", 16.8211, 73.3911,
+    "adanvali", 16.7411, 73.4411, "vilavade", 16.6812, 73.4711, "rajapur road", 16.6367, 73.5133,
+    "vaibhavwadi road", 16.4831, 73.6661, "nandgaon road", 16.3611, 73.6911, "kankavali", 16.2731, 73.7144,
+    "sindhudurg", 16.1211, 73.7211, "kudal", 16.0125, 73.6847, "zarap", 15.9411, 73.7311,
+    "sawantwadi road", 15.8822, 73.7844, "madure", 15.8111, 73.7911, "pernem", 15.7264, 73.8122,
+    "thivim", 15.6186, 73.8644, "karmali", 15.4839, 73.9211, "madgaon junction", 15.2687, 73.9686,
+    "balli", 15.1511, 74.0011, "canacona", 15.0119, 74.0436, "loliem", 14.9311, 74.1011,
+    "karwar", 14.8294, 74.1550, "harwada", 14.7511, 74.2211, "ankola", 14.6711, 74.3167,
+    "gokarna road", 14.5492, 74.3544, "mirjan", 14.4811, 74.3911, "kumta", 14.4172, 74.4231,
+    "honnavar", 14.2817, 74.4622, "manki", 14.2011, 74.4711, "murdeshwar", 14.0886, 74.4981,
+    "chitrapur", 14.0311, 74.5211, "bhatkal", 13.9744, 74.5517, "shiruru", 13.9311, 74.6011,
+    "byndoor", 13.8814, 74.6289, "bijoor", 13.7911, 74.6511, "senapura", 13.7111, 74.6811,
+    "kundapura", 13.6394, 74.7214, "barkur", 13.4611, 74.7511, "udupi", 13.3514, 74.7817,
+    "inanje", 13.2511, 74.8011, "padubidri", 13.1711, 74.8111, "mulki", 13.0856, 74.8394,
+    "surathkal", 12.9867, 74.8081, "thokur", 12.9667, 74.8333
+]
+
+-- Dashboard Quries
+
+
+#Train status Map
+CleanedTrains_TB
+| where lastFetchedAt >= ago(3h) // Show active trains from last 3 hours
+| summarize arg_max(lastFetchedAt, *) by TrainNumber // Get only the latest position of each train
+| extend TotalDelay = (delay_hours * 60) + delay_minutes
+| lookup StationCoordinates on station // Join with the coordinates table
+| extend MapColor = case(
+    TotalDelay == 0, "Green",
+    TotalDelay <= 30, "Yellow",
+    TotalDelay <= 60, "Orange",
+    "Red"
+)
+| where isnotnull(lat) // Ensure we only show trains at recognized stations
+| project lat, lon, name, TrainNumber, TotalDelay, station, status, MapColor
+
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| summarize count_distinct(TrainNumber)
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| where type in ("Superfast", "Express", "Shatabdi", "Passenger", "Mail/Express")
+| summarize PassengerTrainCount = dcount(TrainNumber)
+| project PassengerTrainCount
+
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| summarize count_distinct(station)
+
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| where type !in ("Superfast", "Express", "Shatabdi", "Passenger", "Mail/Express") or isempty(type)
+| summarize GoodsTrainCount = dcount(TrainNumber)
+| project GoodsTrainCount
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| extend TotalMinutes = (delay_hours * 60) + delay_minutes
+| summarize TotalDelayToday = sum(TotalMinutes)
+| project TotalDelayToday
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| extend TotalMinutes = (delay_hours * 60) + delay_minutes
+| summarize TotalDelayToday = sum(TotalMinutes)
+| project TotalDelayToday
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now()) // 1. Filter for today's data
+| summarize arg_max(lastFetchedAt, *) by TrainNumber // 2. Get the latest status for each unique train
+| extend TotalDelayMinutes = (delay_hours * 60) + delay_minutes // 3. Calculate total delay
+| where TotalDelayMinutes == 0 // 4. Filter for only those with zero delay
+| summarize OnTimeTrainCount = count() // 5. Count the remaining trains
+| project OnTimeTrainCount
+
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| extend TotalDelayMinutes = (delay_hours * 60) + delay_minutes
+| summarize arg_max(lastFetchedAt, *) by TrainNumber // 1. Keeps only the newest record for each Train Number
+| project lastFetchedAt, TrainNumber, name, TotalDelayMinutes, station, status // 2. Selects relevant columns
+| order by TotalDelayMinutes desc // 3. Shows the most delayed trains at the top
+
+CleanedTrains_TB
+| where lastFetchedAt >= startofday(now())
+| summarize arg_max(lastFetchedAt, *) by TrainNumber
+| extend TotalDelay = (delay_hours * 60) + delay_minutes
+| summarize AvgDelay = avg(TotalDelay) by type
+| sort by AvgDelay desc
+
+CleanedTrains_TB
+| where lastFetchedAt >= ago(30m) // Only very recent data for "Live" status
+| summarize arg_max(lastFetchedAt, *) by TrainNumber
+| summarize Count = count() by status
