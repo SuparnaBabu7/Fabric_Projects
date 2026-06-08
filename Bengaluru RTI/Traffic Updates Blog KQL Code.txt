@@ -1,0 +1,24 @@
+Real-Time Congestion Map - Map chart
+TrafficTelemetry
+  | summarize arg_max(timestamp, *) by area
+  | project area, latitude, longitude, congestion_index, avg_speed_kmh
+  
+Signal Wait Time vs. Vehicles Passing - SCatter plot
+TrafficTelemetry
+  | summarize arg_max(timestamp, *) by area
+  | project area, signal_wait_time_sec, vehicles_passing_per_min
+  | order by signal_wait_time_sec desc
+  
+Historic Commuter Bottleneck Trends - Line Chart
+TrafficTelemetry
+| extend ActualDateTime = todatetime(timestamp), NumericCongestion = todouble(congestion_index)
+| where ActualDateTime > ago(1h)
+| summarize AvgCongestion = avg(NumericCongestion) by bin(ActualDateTime, 1m), area
+| render timechart
+
+Signal Wait timechart
+
+TrafficTelemetry
+| extend ts = todatetime(timestamp)
+| summarize avg(signal_wait_time_sec) by area, bin(ts, 5m)
+| render barchart
