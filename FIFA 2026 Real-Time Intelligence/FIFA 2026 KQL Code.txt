@@ -1,0 +1,51 @@
+ --KQL Code
+-- Active Weather Map Overlay(MAP Visual)
+['fifa-2026-weather-data']
+| summarize arg_max(DateTime, *) by StadiumName
+| project Latitude, Longitude, StadiumName, Temperature_C, RealFeel_C, Conditions, WetBulbTemp_C
+
+--Current Wind Speeds across Host Venues (Bar  Chart)
+['fifa-2026-weather-data']
+| summarize arg_max(DateTime, *) by StadiumName
+| project StadiumName, WindSpeed_kmh
+| order by WindSpeed_kmh desc
+
+--FIFA Heat Alert Threshold (Multi Stats Card)
+['fifa-2026-weather-data']
+| summarize arg_max(DateTime, *) by StadiumName
+| extend HeatStressRisk = case(
+    WetBulbTemp_C >= 32.0, "🔴 EXTREME - Halt Play / Immediate Action Required",
+    WetBulbTemp_C >= 30.1, "🟠 HIGH - Mandatory cooling breaks needed",
+    WetBulbTemp_C >= 28.0, "🟡 MODERATE - Monitor players closely",
+    "🟢 LOW - Optimal Playing Conditions"
+)
+| project StadiumName, Temperature_C, RealFeel_C, WetBulbTemp_C, HeatStressRisk
+| order by WetBulbTemp_C desc
+
+--Rainfall Accumulation (Last 12 Hours) by Stadium (Time Series Chart)
+['fifa-2026-weather-data'] 
+// 1. Convert the string DateTime column to a real datetime type
+| extend ParsedDateTime = todatetime(DateTime)
+// 2. Filter for data from the last 12 hours
+| where ParsedDateTime >= ago(12h)
+// 3. Summarize using the parsed datetime
+| summarize AvgRainfall_mm = avg(RainLastHour_mm) by bin(ParsedDateTime, 30m), StadiumName
+| render timechart with (title="Rainfall Accumulation (Last 12 Hours) by Stadium")
+
+--Pre-Match Weather Snapshot with parameter
+
+--Parameter Code
+['fifa-2026-weather-data']
+    | distinct StadiumName
+    | order by StadiumName asc
+
+-- Table Chart code
+['fifa-2026-weather-data']
+// 1. Filter the table to match the dashboard dropdown parameter
+| where StadiumName == StadiumFilter
+// 2. Sort by timestamp (explicitly cast to datetime for precise sorting)
+| order by todatetime(DateTime) desc
+// 3. Take only the most recent reading
+| take 1
+// 4. Project the key metrics for the tactical report
+| project DateTime, Conditions, Temperature_C, RealFeel_C, RelativeHumidity, DewPoint_C, WindSpeed_kmh, WetBulbTemp_C
