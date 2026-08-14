@@ -205,5 +205,5 @@ The core idea is simple:
 **Platform:** Microsoft Fabric Real-Time Intelligence
 **Data Source:** UK National Grid Carbon Intensity API
 
-#MicrosoftFabric #RealTimeIntelligence #Eventstream #Eventhouse #KQL #Python #EVCharging #ElectricVehicles #RealTimeAnalytics #DataEngineering
+
 
