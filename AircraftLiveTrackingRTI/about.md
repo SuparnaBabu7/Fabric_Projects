@@ -8,7 +8,7 @@ This project demonstrates how live flight data from the **OpenSky Network API** 
 
 ## 🏗️ Architecture
 
-![Aircraft Live Tracking Architecture](AircraftLiveTrackingRTI/AircraftLiveTracking.png)
+![Aircraft Live Tracking Architecture](https://raw.githubusercontent.com/SuparnaBabu7/Fabric_Projects/main/AircraftLiveTrackingRTI/AircraftLiveTracking.png)
 
 The architecture represents the complete flow from the external OpenSky Network API through Python-based ingestion, Microsoft Fabric Eventstream, Eventhouse/KQL Database, KQL transformations, and finally the Real-Time Dashboard.
 
