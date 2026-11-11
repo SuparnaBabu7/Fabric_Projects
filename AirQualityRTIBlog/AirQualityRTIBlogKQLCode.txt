@@ -1,0 +1,218 @@
+
+let Base = materialize(
+    AirQualityData
+    | extend
+        ReadingTime = todatetime(
+            strcat(
+                substring(tostring(last_update), 6, 4), "-",
+                substring(tostring(last_update), 3, 2), "-",
+                substring(tostring(last_update), 0, 2), "T",
+                substring(tostring(last_update), 11, 8)
+            )
+        ),
+        CityName = trim(" ", tostring(city)),
+        Pollutant = toupper(trim(" ", tostring(pollutant_id))),
+        Concentration = todouble(avg_value)
+    | where isnotnull(ReadingTime) and isnotnull(Concentration)
+);
+Base
+| where Pollutant == "PM2.5"
+| where CityName in~ (
+    "Delhi",
+    "Mumbai",
+    "Hyderabad",
+    "Chennai",
+    "Kolkata",
+    "Vijayawada"
+)
+| summarize arg_max(ReadingTime, *) by CityName
+| extend PM25SubIndex = case(
+    Concentration <= 30,  Concentration * 50.0 / 30.0,
+    Concentration <= 60,  51.0 + (Concentration - 31.0) * 49.0 / 29.0,
+    Concentration <= 90,  101.0 + (Concentration - 61.0) * 99.0 / 29.0,
+    Concentration <= 120, 201.0 + (Concentration - 91.0) * 99.0 / 29.0,
+    Concentration <= 250, 301.0 + (Concentration - 121.0) * 99.0 / 129.0,
+    401.0 + min_of(Concentration, 500.0) - 251.0
+)
+| project
+    CityName,
+    Station = station,
+    ReadingTime,
+    PM25 = Concentration,
+    PM25SubIndex = toint(round(min_of(PM25SubIndex, 500.0), 0)),
+    Latitude = todouble(latitude),
+    Longitude = todouble(longitude)
+| order by PM25SubIndex desc
+
+----------------------------------------------------------------------
+
+
+let Base = materialize(
+    AirQualityData
+    | extend
+        ReadingTime = todatetime(strcat(
+            substring(tostring(last_update), 6, 4), "-",
+            substring(tostring(last_update), 3, 2), "-",
+            substring(tostring(last_update), 0, 2), "T",
+            substring(tostring(last_update), 11, 8)
+        )),
+        CityName = trim(" ", tostring(city)),
+        Pollutant = toupper(trim(" ", tostring(pollutant_id))),
+        Concentration = todouble(avg_value),
+        Latitude = todouble(latitude),
+        Longitude = todouble(longitude)
+    | where isnotnull(ReadingTime)
+        and isnotnull(Concentration)
+        and isnotnull(Latitude)
+        and isnotnull(Longitude)
+);
+Base
+| where Pollutant == "PM2.5"
+| summarize arg_max(ReadingTime, *) by CityName, station
+| extend PM25SubIndex = case(
+    Concentration <= 30,  Concentration * 50.0 / 30.0,
+    Concentration <= 60,  51.0 + (Concentration - 31.0) * 49.0 / 29.0,
+    Concentration <= 90,  101.0 + (Concentration - 61.0) * 99.0 / 29.0,
+    Concentration <= 120, 201.0 + (Concentration - 91.0) * 99.0 / 29.0,
+    Concentration <= 250, 301.0 + (Concentration - 121.0) * 99.0 / 129.0,
+    401.0 + min_of(Concentration, 500.0) - 251.0
+)
+| project
+    CityName,
+    Station = tostring(station),
+    ReadingTime,
+    Latitude,
+    Longitude,
+    PM25 = Concentration,
+    PM25SubIndex = toint(round(min_of(PM25SubIndex, 500.0), 0))
+| order by PM25SubIndex desc
+
+   ----------------------------------------------------
+   
+   
+let Base = materialize(
+    AirQualityData
+    | extend
+        ReadingTime = todatetime(strcat(
+            substring(tostring(last_update), 6, 4), "-",
+            substring(tostring(last_update), 3, 2), "-",
+            substring(tostring(last_update), 0, 2), "T",
+            substring(tostring(last_update), 11, 8)
+        )),
+        CityName = trim(" ", tostring(city)),
+        Pollutant = toupper(trim(" ", tostring(pollutant_id))),
+        Concentration = todouble(avg_value)
+    | where isnotnull(ReadingTime) and isnotnull(Concentration)
+);
+Base
+| where Pollutant == "PM2.5"
+| summarize arg_max(ReadingTime, *) by CityName, station
+| extend PM25SubIndex = case(
+    Concentration <= 30,  Concentration * 50.0 / 30.0,
+    Concentration <= 60,  51.0 + (Concentration - 31.0) * 49.0 / 29.0,
+    Concentration <= 90,  101.0 + (Concentration - 61.0) * 99.0 / 29.0,
+    Concentration <= 120, 201.0 + (Concentration - 91.0) * 99.0 / 29.0,
+    Concentration <= 250, 301.0 + (Concentration - 121.0) * 99.0 / 129.0,
+    401.0 + min_of(Concentration, 500.0) - 251.0
+)
+| summarize CityPM25SubIndex = round(avg(min_of(PM25SubIndex, 500.0)), 0)
+    by CityName
+| top 5 by CityPM25SubIndex asc
+| project CityName, CityPM25SubIndex
+
+----------------------------------------------------------
+
+
+let Base = materialize(
+    AirQualityData
+    | extend
+        ReadingTime = todatetime(strcat(
+            substring(tostring(last_update), 6, 4), "-",
+            substring(tostring(last_update), 3, 2), "-",
+            substring(tostring(last_update), 0, 2), "T",
+            substring(tostring(last_update), 11, 8)
+        )),
+        CityName = trim(" ", tostring(city)),
+        Pollutant = toupper(trim(" ", tostring(pollutant_id))),
+        Concentration = todouble(avg_value)
+    | where isnotnull(ReadingTime) and isnotnull(Concentration)
+);
+Base
+| where Pollutant == "PM2.5"
+| summarize arg_max(ReadingTime, *) by CityName, station
+| extend PM25SubIndex = case(
+    Concentration <= 30,  Concentration * 50.0 / 30.0,
+    Concentration <= 60,  51.0 + (Concentration - 31.0) * 49.0 / 29.0,
+    Concentration <= 90,  101.0 + (Concentration - 61.0) * 99.0 / 29.0,
+    Concentration <= 120, 201.0 + (Concentration - 91.0) * 99.0 / 29.0,
+    Concentration <= 250, 301.0 + (Concentration - 121.0) * 99.0 / 129.0,
+    401.0 + min_of(Concentration, 500.0) - 251.0
+)
+| summarize CityPM25SubIndex = round(avg(min_of(PM25SubIndex, 500.0)), 0)
+    by CityName
+| top 5 by CityPM25SubIndex desc
+
+-----------------------------------------------------------------------------------
+
+
+let Base = materialize(
+    AirQualityData
+    | extend
+        ReadingTime = todatetime(strcat(
+            substring(tostring(last_update), 6, 4), "-",
+            substring(tostring(last_update), 3, 2), "-",
+            substring(tostring(last_update), 0, 2), "T",
+            substring(tostring(last_update), 11, 8)
+        )),
+        CityName = trim(" ", tostring(city)),
+        Pollutant = toupper(trim(" ", tostring(pollutant_id))),
+        Concentration = todouble(avg_value)
+    | where isnotnull(ReadingTime) and isnotnull(Concentration)
+);
+Base
+| where Pollutant == "PM2.5"
+| summarize arg_max(ReadingTime, *) by CityName, station
+| extend PM25SubIndex = case(
+    Concentration <= 30,  Concentration * 50.0 / 30.0,
+    Concentration <= 60,  51.0 + (Concentration - 31.0) * 49.0 / 29.0,
+    Concentration <= 90,  101.0 + (Concentration - 61.0) * 99.0 / 29.0,
+    Concentration <= 120, 201.0 + (Concentration - 91.0) * 99.0 / 29.0,
+    Concentration <= 250, 301.0 + (Concentration - 121.0) * 99.0 / 129.0,
+    401.0 + min_of(Concentration, 500.0) - 251.0
+)
+| project
+    CityName,
+    Station = tostring(station),
+    ReadingTime,
+    DominantPollutantAvailable = "PM2.5 only",
+    Concentration,
+    PM25SubIndex = toint(round(min_of(PM25SubIndex, 500.0), 0))
+| order by CityName asc, Station asc
+
+
+------------------------------------------------------------------------
+
+
+AirQualityData
+| extend
+    ReadingTime = todatetime(strcat(
+        substring(tostring(last_update), 6, 4), "-",
+        substring(tostring(last_update), 3, 2), "-",
+        substring(tostring(last_update), 0, 2), "T",
+        substring(tostring(last_update), 11, 8)
+    )),
+    CityName = trim(" ", tostring(city)),
+    Pollutant = toupper(trim(" ", tostring(pollutant_id))),
+    Concentration = todouble(avg_value)
+| where CityName =~ "Delhi"
+| where isnotnull(ReadingTime) and isnotnull(Concentration)
+| summarize arg_max(ReadingTime, *) by station, Pollutant
+| project
+    CityName,
+    Station = tostring(station),
+    Pollutant,
+    ReadingTime,
+    Concentration
+| order by Station asc, Pollutant asc
+
+
