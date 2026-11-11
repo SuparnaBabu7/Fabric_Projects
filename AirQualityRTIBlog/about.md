@@ -10,7 +10,7 @@ The solution uses air-quality data from the **data.gov.in API** and builds an en
 
 ## 🏗️ Solution Architecture
 
-![Real-Time Air Quality Monitoring Architecture](AirQualityRTIBlog/rtiimage.png)
+![Real-Time Air Quality Monitoring Architecture](https://raw.githubusercontent.com/SuparnaBabu7/Fabric_Projects/main/AirQualityRTIBlog/rtiimage.png)
 
 ### 🔄 End-to-End Data Flow
 
